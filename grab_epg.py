@@ -7,47 +7,67 @@ def main():
     canali_file = "canali.txt"
     output_file = "02.1.epg"
 
-    # 1. Carica la lista dei canali desiderati
+    # Header per evitare il blocco (User-Agent)
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+
     if not os.path.exists(canali_file):
-        print(f"Errore: {canali_file} non trovato.")
+        print(f"ERRORE: {canali_file} non trovato nel repository.")
         return
     
     with open(canali_file, "r") as f:
         target_channels = [line.strip() for line in f if line.strip()]
 
+    if not target_channels:
+        print("ERRORE: Il file canali.txt è vuoto.")
+        return
+
     print(f"Scaricamento dati da {url}...")
     try:
-        response = requests.get(url, timeout=30)
+        # Il parametro stream=True e l'header permettono di gestire meglio file grandi
+        response = requests.get(url, headers=headers, timeout=60)
         response.raise_for_status()
         
-        # Nota: Se l'URL restituisce un file compresso (GZ), requests non lo decomprime automaticamente se l'header non è corretto.
-        # Ma assumiamo che sia testo/xml come richiesto.
-        xml_content = response.content
-        root = ET.fromstring(xml_content)
+        print(f"Dati ricevuti ({len(response.content)} bytes). Analisi XML...")
+        root = ET.fromstring(response.content)
         
-        # Crea un nuovo albero XML per l'output
         new_root = ET.Element("tv")
-        # Copia gli attributi (es. generator-info-name)
         for key, value in root.attrib.items():
             new_root.set(key, value)
 
-        # 2. Filtra i canali
+        count_ch = 0
+        count_pr = 0
+
+        # Filtra i canali
         for channel in root.findall("channel"):
             if channel.get("id") in target_channels:
                 new_root.append(channel)
+                count_ch += 1
 
-        # 3. Filtra i programmi associati ai canali
+        # Filtra i programmi
         for programme in root.findall("programme"):
             if programme.get("channel") in target_channels:
                 new_root.append(programme)
+                count_pr += 1
 
-        # 4. Salva il file
+        print(f"Trovati {count_ch} canali e {count_pr} programmi.")
+
+        if count_ch == 0:
+            print("ATTENZIONE: Nessun canale corrispondente trovato. Controlla gli ID in canali.txt")
+
+        # Scrittura file
         tree = ET.ElementTree(new_root)
         tree.write(output_file, encoding="utf-8", xml_declaration=True)
-        print(f"File {output_file} creato con successo.")
+        
+        if os.path.exists(output_file):
+            print(f"SUCCESSO: File {output_file} creato (Dimensione: {os.path.getsize(output_file)} bytes).")
+        else:
+            print("ERRORE: Il file non è stato scritto su disco.")
 
     except Exception as e:
-        print(f"Errore durante l'elaborazione: {e}")
+        print(f"ERRORE CRITICO: {e}")
+        exit(1) # Forza l'errore nel workflow per debugging
 
 if __name__ == "__main__":
     main()
