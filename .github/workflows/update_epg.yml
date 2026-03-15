@@ -1,0 +1,36 @@
+name: Aggiornamento Giornaliero EPG
+
+on:
+  schedule:
+    # 02:30 ora italiana (approssimata a 01:30 UTC)
+    - cron: '30 1 * * *'
+  workflow_dispatch: # Permette di avviarlo manualmente per test
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permesso necessario per caricare il file nel repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Installa dipendenze
+        run: pip install requests
+
+      - name: Esegui lo script di estrazione
+        run: python grab_epg.py
+
+      - name: Commit e Push del file generato
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add 02.1.epg
+          git commit -m "Update EPG: $(date +'%Y-%m-%d %H:%M')" || echo "Nessuna modifica da caricare"
+          git push
