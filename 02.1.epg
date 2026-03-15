@@ -21,6 +21,11 @@
     <display-name lang="it">Motor Trend</display-name>
     <url>http://www.warnertv.it</url>
   </channel>
+  <channel id="Real Time">
+    <display-name lang="de">Real Time</display-name>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/3cb9862d-afca-4380-9fe5-54d846846bbc_W90.png" />
+    <url>http://www.tv.blue.ch</url>
+  </channel>
   <programme start="20260315050000 +0000" stop="20260315080000 +0000" channel="Canale Italia">
     <title lang="it">Notizie oggi</title>
     <desc lang="it">Edizione del notiziario televisivo a cura della redazione giornalistica di Canale Italia. Ogni giorno, le notizie più importanti a livello nazionale ed internazionale: attualità, cronaca, politica e rassegna stampa.</desc>
@@ -3304,4 +3309,443 @@
     <desc lang="it">St.1 Ep.1 - Roby PMG ripercorre la nascita dell'automobile americana: dal caos dei primi motori alla rivoluzione della Model T, tra brevetti, guerre industriali e visioni contrapposte.</desc>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  </tv>
+  <programme start="20260315024500 +0000" stop="20260315042500 +0000" channel="Real Time">
+    <title lang="it">Vite al limite</title>
+    <sub-title lang="it">DeShaun</sub-title>
+    <desc lang="it">DeShaun ha un atteggiamento troppo protettivo nei confronti della madre: pesa più di 700 chili e non vuole lasciare l'appartamento. Il Dr. Now e il Dr. Paradise devono convincerlo a lasciare la camera da letto.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p29175016eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S13 E6</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260315042500 +0000" stop="20260315050000 +0000" channel="Real Time">
+    <title lang="it">Il re del bisturi post bariatrico</title>
+    <sub-title lang="it">Annibale</sub-title>
+    <desc lang="it">Arrivato a 170 kg, un paziente si sottoponte ad un intervento bariatrico per amore della figlia.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30261860eh10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20260315050000 +0000" stop="20260315070000 +0000" channel="Real Time">
+    <title lang="it">Vite al limite</title>
+    <sub-title lang="it">Krystal</sub-title>
+    <desc lang="it">Dopo anni di abusi, Krystal sviluppa una patologia alimentare e ha un continuo bisogno di rifugiarsi nel cibo per sentirsi al sicuro. Tuttavia, la sua condizione rischia di distruggerle la vita.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19457975eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260315070000 +0000" stop="20260315090000 +0000" channel="Real Time">
+    <title lang="it">Vite al limite</title>
+    <sub-title lang="it">Isaac</sub-title>
+    <desc lang="it">Quando la madre di Isaac è stata colpita da un ictus, lui aveva 10 anni e si è preso subito cura dei fratelli. Mentre impara a cucinare per la sua famiglia, Isaac cambia le abitudini alimentari e adesso vuole riprende il controllo della sua dieta.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19494810eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S9 E8</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260315090000 +0000" stop="20260315103000 +0000" channel="Real Time">
+    <title lang="it">Cake Star: Pasticcerie in sfida</title>
+    <sub-title lang="it">Catania</sub-title>
+    <desc lang="it">Katia e Damiano raggiungono Catania. A sfidarsi sono le pasticcerie Quaranta, Privitera e la C&amp;G, una cioccolateria e gelateria con vari punti vendita in città e molto conosciuta.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15064627bdh10af_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260315103000 +0000" stop="20260315120000 +0000" channel="Real Time">
+    <title lang="it">Il forno delle meraviglie</title>
+    <sub-title lang="it">Tigullio</sub-title>
+    <desc lang="it">Ad attendere Fulvio c'è l'influencer ligure Tommy Cassi.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26184631bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315130500 +0000" channel="Real Time">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <sub-title lang="it">Valentina e Nicolò vs Deborah e Gabriele</sub-title>
+    <desc lang="it">Valentina e Nicolò contro Deborah e Gabriele: le due coppie portano in tavola complicità e un tocco di romanità.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31986557eh10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S22 E4</episode-num>
+  </programme>
+  <programme start="20260315130500 +0000" stop="20260315141000 +0000" channel="Real Time">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <sub-title lang="it">Paolo e Elena vs Rosario e Annalisa</sub-title>
+    <desc lang="it">Paolo ed Elena lanciano la sfida agli amici Rosario e Annalisa.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11152754bdh10ae_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S22 E5</episode-num>
+  </programme>
+  <programme start="20260315141000 +0000" stop="20260315151500 +0000" channel="Real Time">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <sub-title lang="it">Riccardo e Andrea vs Cecilia e Edoardo</sub-title>
+    <desc lang="it">Un grande amore o una forte amicizia: chi conquisterà i giudici?</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31986559eh11aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S22 E6</episode-num>
+  </programme>
+  <programme start="20260315151500 +0000" stop="20260315162000 +0000" channel="Real Time">
+    <title lang="it">Casa a prima vista</title>
+    <desc lang="it">Scopriamo chi tra Blasco, Nadia e Corrado trova la casa perfetta per Francesco e Giovanna.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24594300bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  <programme start="20260315162000 +0000" stop="20260315172500 +0000" channel="Real Time">
+    <title lang="it">Casa a prima vista</title>
+    <desc lang="it">Scopriamo se i nostri agenti riescono a regalare a Martina la sua casa da sogno.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24594300bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  <programme start="20260315172500 +0000" stop="20260315183000 +0000" channel="Real Time">
+    <title lang="it">Casa a prima vista</title>
+    <desc lang="it">Tre agenti immobiliari con una personalità differente fra loro si sfidano per riuscire a trovare la casa perfetta per un acquirente protagonista dell'appuntamento, e le sue infinite richieste.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24594300bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S8 E4</episode-num>
+  </programme>
+  <programme start="20260315183000 +0000" stop="20260315193500 +0000" channel="Real Time">
+    <title lang="it">Casa a prima vista</title>
+    <desc lang="it">Tre agenti immobiliari con una personalità differente fra loro si sfidano per riuscire a trovare la casa perfetta per un acquirente protagonista dell'appuntamento, e le sue infinite richieste.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24594300bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S8 E5</episode-num>
+  </programme>
+  <programme start="20260315193500 +0000" stop="20260315210500 +0000" channel="Real Time">
+    <title lang="it">Primo appuntamento</title>
+    <desc lang="it">Alcune persone partecipano ad un appuntamento al buio in un ristorante: telecamere nascoste catturano ogni dettaglio del loro incontro. Scopriamo chi, alla fine della serata, decida di vedersi una seconda volta.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13860324bdh8am_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S9 E24</episode-num>
+  </programme>
+  <programme start="20260315210500 +0000" stop="20260315225500 +0000" channel="Real Time">
+    <title lang="it">90 giorni per innamorarsi: E poi...</title>
+    <sub-title lang="it">Risultati</sub-title>
+    <desc lang="it">Julia riceve alcuni risultati importanti. Kara e Guillermo ci riprovano un'ultima volta.</desc>
+    <credits>
+      <director>Dan Howlett</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30988250eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S9 E9</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260315225500 +0000" stop="20260315235000 +0000" channel="Real Time">
+    <title lang="it">Dr. Pimple Popper: I nuovi casi</title>
+    <sub-title lang="it">Lezioni</sub-title>
+    <desc lang="it">Dot ha un grosso nodulo in crescita sulla parte interna della coscia.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p29725524eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260315235000 +0000" stop="20260316004500 +0000" channel="Real Time">
+    <title lang="it">Dr. Pimple Popper: La dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">Niente hobby</sub-title>
+    <desc lang="it">Jacqueline fa fatica a praticare il suo passatempo preferito a causa di un'escrescenza su una spalla. Intanto, il misterioso bozzolo sula guancia di James ha iniziato a sanguinare.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24170832eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316004500 +0000" stop="20260316014000 +0000" channel="Real Time">
+    <title lang="it">Dr. Pimple Popper: La dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">Rimozioni</sub-title>
+    <desc lang="it">Dopo aver perso l'amore della sua vita, Joe spera di rimuovere i bozzoli enormi che ha sulla testa. L'eruzione cutanea pruriginosa di Nisa si è estesa anche sul volto.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24170834eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316014000 +0000" stop="20260316023000 +0000" channel="Real Time">
+    <title lang="it">Dr. Pimple Popper: La dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">Nuovi casi</sub-title>
+    <desc lang="it">Il nodulo all'occhio di Cedric e quello al collo, doloroso, gli impediscono di lavorare. Il nodulo nell'orecchio di Katherine mette a rischio il suo lavoro.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24426180eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316023000 +0000" stop="20260316032000 +0000" channel="Real Time">
+    <title lang="it">Dr. Pimple Popper: La dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">Strana pelle</sub-title>
+    <desc lang="it">Jimmy vuole liberarsi della sua pelle squamosa di coccodrillo per poter trovare l'amore. Djuka ha una protuberanza molto ostinata. Talina soffre di centinaia di tumori sul corpo.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24497930eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316032000 +0000" stop="20260316041000 +0000" channel="Real Time">
+    <title lang="it">Dr. Pimple Popper: La dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">Naso particolare</sub-title>
+    <desc lang="it">Brittney ha perso la fiducia in se stessa a causa di centinaia di noduli sul petto. John ha un naso grande come una prugna, e si affida al medico locale.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24506562eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316041000 +0000" stop="20260316050000 +0000" channel="Real Time">
+    <title lang="it">Dr. Pimple Popper: La dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">Convinzioni</sub-title>
+    <desc lang="it">Mike ha un grosso nodulo, ma la sua fede gli impedisce di andare dal medico. Kylie sta pensando di farsi togliere la macchia di vino. Il bernoccolo di Shad si apre e puzza di morte.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24506563eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316050000 +0000" stop="20260316060000 +0000" channel="Real Time">
+    <title lang="it">Dr. Pimple Popper: La dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">La protuberanza</sub-title>
+    <desc lang="it">Dopo aver perso 60 chili, Barbara denota che la protuberanza sulla sua schiena è divenuta più visibile. Hilda soffre di depressione a causa di diversi bozzi sulle palpebre.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16491098eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316060000 +0000" stop="20260316065500 +0000" channel="Real Time">
+    <title lang="it">Dr. Pimple Popper: La dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">Sparisci bozzo!</sub-title>
+    <desc lang="it">Leonard ha una protuberanza che gli pende dal braccio che causa gravi problemi alla cute. Dopo una caduta dalle scale, Jess ha un trauma visibile sul sedere.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16515691eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316065500 +0000" stop="20260316075500 +0000" channel="Real Time">
+    <title lang="it">Dr. Pimple Popper: La dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">Problemi alla gamba</sub-title>
+    <desc lang="it">La dottoressa Sandra Lee si occupa di Heather, che ha una protuberanza sulla gamba e teme che rimuovendola possa rimanere una cicatrice. Paul ha una gobba gigantesca.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16962861eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316075500 +0000" stop="20260316104000 +0000" channel="Real Time">
+    <title lang="it">Il dottor Alì</title>
+    <sub-title lang="it">Chi sarà il vincitore?</sub-title>
+    <desc lang="it">Il nuovo chirurgo Muhsin è un genio della diagnostica come Ali.</desc>
+    <credits>
+      <director>Yusuf Pirhasan</director>
+      <director>Aytac Cicek</director>
+      <actor role="Ali Velfa">Taner Ölmez</actor>
+      <actor role="Ferman">Onur Tuna</actor>
+      <actor role="Beliz">Hazal Türesan</actor>
+      <actor role="Tanju">Murat Aygen</actor>
+      <actor role="Adil">Reha Özcan</actor>
+      <actor role="Selvi">Bihter Dinçel</actor>
+      <actor role="Açelya">Hayal Koseoglu</actor>
+      <actor role="Demir">Firat Altunmese</actor>
+      <actor role="Nazli">Sinem Ünsal</actor>
+      <actor role="Gülin Şenalp">Merve Bulut</actor>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28067021eh10aa_Iconic_W660.webp" />
+    <country lang="it">TR</country>
+  </programme>
+  <programme start="20260316104000 +0000" stop="20260316114500 +0000" channel="Real Time">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <desc lang="it">Il tema protagonista di questo appuntamento è l'eleganza.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26868957eh11aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260316114500 +0000" stop="20260316125000 +0000" channel="Real Time">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <sub-title lang="it">Carlotta e Michele vs Alessandra e Matteo</sub-title>
+    <desc lang="it">Csaba, Roberto e Tommaso sono a Milano per giudicare la sfida tra due giovani coppie.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26868958eh11aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260316125000 +0000" stop="20260316135500 +0000" channel="Real Time">
+    <title lang="it">Casa a prima vista</title>
+    <desc lang="it">Tre agenti immobiliari con una personalità differente fra loro si sfidano per riuscire a trovare la casa perfetta per un acquirente protagonista dell'appuntamento, e le sue infinite richieste.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24594300bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S8 E3</episode-num>
+  </programme>
+  <programme start="20260316135500 +0000" stop="20260316150000 +0000" channel="Real Time">
+    <title lang="it">Casa a prima vista</title>
+    <desc lang="it">Tre agenti immobiliari con una personalità differente fra loro si sfidano per riuscire a trovare la casa perfetta per un acquirente protagonista dell'appuntamento, e le sue infinite richieste.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24594300bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S8 E5</episode-num>
+  </programme>
+  <programme start="20260316150000 +0000" stop="20260316153000 +0000" channel="Real Time">
+    <title lang="it">Abito da sposa cercasi</title>
+    <sub-title lang="it">Spose incinte</sub-title>
+    <desc lang="it">Tisa è alla ricerca di un abito che la faccia sembrare sexy nonostante sia incinta di tre mesi. Emily, invece, è al sesto mese e deve provare il vestito per la prima volta.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9326445eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S8 E13</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316153000 +0000" stop="20260316160000 +0000" channel="Real Time">
+    <title lang="it">Abito da sposa cercasi</title>
+    <sub-title lang="it">Il peso conta</sub-title>
+    <desc lang="it">Kristy ha perso 45 chili e ora è alla ricerca dell'abito giusto per mostrare la sua nuova linea. Anche Kristin non vede l'ora di provare il suo vestito.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9326450eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S8 E11</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316160000 +0000" stop="20260316163000 +0000" channel="Real Time">
+    <title lang="it">Abito da sposa cercasi</title>
+    <sub-title lang="it">Spose rock</sub-title>
+    <desc lang="it">Kristin vuole un abito che richiami lo stile rock. Intanto Ambra ha due priorità per il suo vestito: deve essere diverso da tutti gli altri e deve valorizzare i suoi tatuaggi.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9343856eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S8 E12</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316163000 +0000" stop="20260316170000 +0000" channel="Real Time">
+    <title lang="it">Abito da sposa cercasi</title>
+    <sub-title lang="it">Spose in campo</sub-title>
+    <desc lang="it">Devon arriva al negozio con il suo fidanzato Duane Brown, giocatore degli Houston Texans. In seguito arriva Taya, impegnata con il giocatore dei New York Giants Adam Koets.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9347918eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S8 E14</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260316170000 +0000" stop="20260316183500 +0000" channel="Real Time">
+    <title lang="it">Primo appuntamento</title>
+    <desc lang="it">Alcune persone partecipano ad un appuntamento al buio in un ristorante: telecamere nascoste catturano ogni dettaglio del loro incontro. Scopriamo chi, alla fine della serata, decida di vedersi una seconda volta.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13860324bdh8am_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S8 E14</episode-num>
+  </programme>
+  <programme start="20260316183500 +0000" stop="20260316193000 +0000" channel="Real Time">
+    <title lang="it">Casa a prima vista</title>
+    <desc lang="it">Tre agenti immobiliari con una personalità differente fra loro si sfidano per riuscire a trovare la casa perfetta per un acquirente protagonista dell'appuntamento, e le sue infinite richieste.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24594300bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S8 E4</episode-num>
+  </programme>
+  <programme start="20260316193000 +0000" stop="20260316203000 +0000" channel="Real Time">
+    <title lang="it">Casa a prima vista</title>
+    <desc lang="it">Tre agenti immobiliari con una personalità differente fra loro si sfidano per riuscire a trovare la casa perfetta per un acquirente protagonista dell'appuntamento, e le sue infinite richieste.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24594300bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S8 E6</episode-num>
+  </programme>
+  <programme start="20260316203000 +0000" stop="20260316233500 +0000" channel="Real Time">
+    <title lang="it">Melek: Il coraggio di una madre</title>
+    <desc lang="it">Mentre Melek fatica ad accettare la consegna di Kerem al padre da parte di Mithat, è sconvolta nello scoprire che anche Defne e Seyit Ali sono andati all'aeroporto.</desc>
+    <credits>
+      <actor role="Melek Karadag">Nehir Erdogan</actor>
+      <actor role="Alpay Yildirim">Kaan Çakir</actor>
+      <actor role="Defne">Rabia Soyturk</actor>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32268645ih10aa_Iconic_W660.webp" />
+    <country lang="it">TR</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260316233500 +0000" stop="20260317012500 +0000" channel="Real Time">
+    <title lang="it">Vite al limite</title>
+    <sub-title lang="it">La storia di James K</sub-title>
+    <desc lang="it">James si è ritrovato costretto a letto, incapace di stare in piedi, e riesce a malapena a muovere le gambe. Holly e Mark si preparano per un intervento chirurgico di rimozione della pelle in eccesso.</desc>
+    <date>2017</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13802382eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260317012500 +0000" stop="20260317031500 +0000" channel="Real Time">
+    <title lang="it">Vite al limite</title>
+    <sub-title lang="it">La storia di Nicole</sub-title>
+    <desc lang="it">Pesando circa 315 chili, Nicole rischia di lasciare orfani i propri figli. La donna inizia così un programma dietetico, ma una crisi minaccia di far deragliare tutte le sue speranze.</desc>
+    <date>2017</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13602227eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260317031500 +0000" stop="20260317050000 +0000" channel="Real Time">
+    <title lang="it">Vite al limite</title>
+    <sub-title lang="it">La storia di Kirsten</sub-title>
+    <desc lang="it">Pesando circa 300 chili, Kirsten sta per perdere le proprie capacità motorie. La donna deve riguadagnare la sua salute per essere una madre migliore e prendersi cura dei propri figli.</desc>
+    <date>2017</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13661971eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+</tv>
