@@ -2,7 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 import os
 import gzip
-import io
+import sys
 
 def main():
     url = "https://www.epgitalia.tv/guide2"
@@ -10,74 +10,65 @@ def main():
     output_file = "02.1.epg"
 
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)',
         'Accept-Encoding': 'gzip, deflate'
     }
 
+    # 1. Carica canali.txt
     if not os.path.exists(canali_file):
-        print(f"ERRORE: {canali_file} non trovato.")
-        return
+        print(f"ERRORE: Manca il file {canali_file}")
+        sys.exit(1)
     
     with open(canali_file, "r") as f:
         target_channels = [line.strip() for line in f if line.strip()]
+    print(f"Canali cercati (da canali.txt): {target_channels}")
 
-    print(f"Scaricamento dati da {url}...")
+    # 2. Scarica i dati
+    print(f"Scaricamento da {url}...")
     try:
         response = requests.get(url, headers=headers, timeout=60)
         response.raise_for_status()
+        data = response.content
+        print(f"Byte ricevuti: {len(data)}")
+
+        # 3. Decompressione GZIP se necessaria
+        if data.startswith(b'\x1f\x8b'):
+            print("Dati compressi rilevati. Decompressione...")
+            data = gzip.decompress(data)
+            print(f"Dimensione decompressa: {len(data)}")
+
+        # 4. Parsing XML
+        root = ET.fromstring(data)
         
-        raw_data = response.content
-        print(f"Dati ricevuti ({len(raw_data)} bytes).")
-
-        # Gestione Decompressione GZIP
-        # Se i primi due byte sono 1f 8b, il file è un GZIP
-        if raw_data.startswith(b'\x1f\x8b'):
-            print("Rilevato formato compresso (GZIP). Decompressione in corso...")
-            try:
-                raw_data = gzip.decompress(raw_data)
-                print(f"Decompressione completata. Nuova dimensione: {len(raw_data)} bytes.")
-            except Exception as e:
-                print(f"Errore durante la decompressione: {e}")
-                return
-
-        # Analisi XML
-        print("Analisi XML...")
-        # Usiamo BytesIO per gestire correttamente la codifica durante il parsing
-        root = ET.fromstring(raw_data)
+        new_root = ET.Element("tv", root.attrib)
         
-        new_root = ET.Element("tv")
-        for key, value in root.attrib.items():
-            new_root.set(key, value)
+        # Log per vedere cosa c'è nell'XML originale
+        all_channels_in_xml = [ch.get("id") for ch in root.findall("channel")]
+        print(f"Primi 10 canali trovati nell'XML: {all_channels_in_xml[:10]}")
 
+        # 5. Filtro
         count_ch = 0
-        count_pr = 0
-
-        # Filtra i canali
         for channel in root.findall("channel"):
             if channel.get("id") in target_channels:
                 new_root.append(channel)
                 count_ch += 1
 
-        # Filtra i programmi
+        count_pr = 0
         for programme in root.findall("programme"):
             if programme.get("channel") in target_channels:
                 new_root.append(programme)
                 count_pr += 1
 
-        print(f"Filtro completato: {count_ch} canali e {count_pr} programmi trovati.")
+        print(f"Trovati {count_ch} canali e {count_pr} programmi corrispondenti.")
 
-        # Scrittura file finale
+        # 6. Salvataggio (anche se vuoto, creiamo il file per non far fallire Git)
         tree = ET.ElementTree(new_root)
         tree.write(output_file, encoding="utf-8", xml_declaration=True)
-        
-        if os.path.exists(output_file):
-            print(f"SUCCESSO: File {output_file} creato ({os.path.getsize(output_file)} bytes).")
-        else:
-            print("ERRORE: Impossibile scrivere il file di output.")
+        print(f"File {output_file} salvato correttamente.")
 
-    except ET.ParseError as e:
-        print(f"ERRORE XML: Il file scaricato non è un XML valido. Dettagli: {e}")
-        # Stampiamo i primi 100 caratteri per capire cosa abbiamo scaricato veramente
-        print(f"Inizio dati: {raw_data[:100]}")
     except Exception as e:
-        print(f"ERRORE CRITICO: {e}")
+        print(f"ERRORE DURANTE L'ESECUZIONE: {e}")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    main()
