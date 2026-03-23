@@ -1,4 +1,4 @@
-Cname: Aggiornamento Giornaliero EPG
+name: Aggiornamento Giornaliero EPG
 
 on:
   schedule:
