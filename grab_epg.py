@@ -7,7 +7,7 @@ import sys
 def main():
     url = "https://www.epgitalia.tv/guide2"
     canali_file = "canali.txt"
-    output_file = "01.02.epg"
+    output_file = "01.02.xmltv"
 
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)',
