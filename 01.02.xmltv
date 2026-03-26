@@ -8,6 +8,11 @@
     <display-name lang="de">Rai News 24</display-name>
     <url>http://www.tv.blue.ch</url>
   </channel>
+  <channel id="K2">
+    <display-name lang="de">K2</display-name>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/f9cde70c-459e-42be-9b8c-5a5a2cd33567_W90.png" />
+    <url>http://www.tv.blue.ch</url>
+  </channel>
   <channel id="Frisbee">
     <display-name lang="de">Frisbee</display-name>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/d8637342-6498-4674-ab59-b1f69297ee97_W90.png" />
@@ -1402,6 +1407,1693 @@
     <date>2022</date>
     <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20077118ih10ab_Iconic_W660.webp" />
     <country lang="it">ES</country>
+  </programme>
+  <programme start="20260326035500 +0000" stop="20260326041500 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Hide and Squeek</sub-title>
+    <desc lang="it">Marina e Sharko giocano a nascondino, ma la sirena non sa nascondersi molto bene. Zig decide di aiutarla, ma Sharko non si lascia ingannare. Continuando a tenere d'occhio la iena, lo squalo perde di vista Marina. Neanche Zig sa dove sia.</desc>
+    <credits>
+      <director>Olivier Jean-Marie</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17319980eh10ab_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260326041500 +0000" stop="20260326043500 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">Per fuggire, questa volta i fratelli Dalton invadono la prigione, drogano le guardie e giocano a rugby.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11285640eh8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260326043500 +0000" stop="20260326050000 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">La signorina Betty sta ristrutturando il suo appartamento e chiede consiglio ad Averell, che ha molto buon gusto. Poiché la signorina Betty ha una chiave di riserva del penitenziario, Joe decide di impersonare Averell.</desc>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8749320eh8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260326050000 +0000" stop="20260326052000 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Senza ciabatte</sub-title>
+    <desc lang="it">Marina si rifiuta di togliersi le infradito per entrare in un ristorante chic, mentre Sharko accetta di rispettare la regola.</desc>
+    <credits>
+      <director>Yani Ouabdesselam</director>
+      <director>Nicolas Bougard</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26581688eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260326052000 +0000" stop="20260326054000 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Testa tra le nuvole</sub-title>
+    <desc lang="it">Marina rompe accidentalmente il filo dell'aquilone di Sharko, che vola via. Una strana nave nuvola, pilotata da Zig e Bernie gareggia con l'aquilone.</desc>
+    <credits>
+      <director>Yani Ouabdesselam</director>
+      <director>Nicolas Bougard</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26581732eh11aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260326054000 +0000" stop="20260326055000 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Match point</sub-title>
+    <desc lang="it">Marina e Zig giocano a pallavolo contro Sharko e Bernie. Tra Marina e Sharko si sviluppa una feroce competizione.</desc>
+    <credits>
+      <director>Yani Ouabdesselam</director>
+      <director>Nicolas Bougard</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26644968eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260326055000 +0000" stop="20260326061500 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Il figlio speciale</sub-title>
+    <desc lang="it">Pan Barbiere ed il suo assistente Wilk decidono di partecipare ad uno spettacolo dove si decorano dolci deliziosi.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21340974eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20260326061500 +0000" stop="20260326063000 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Il muro di cioccolato</sub-title>
+    <desc lang="it">Chiedendosi cosa si nasconda dietro la grande muraglia della città, Choco pone la domanda a sua nonna, che ha una risposta e una storia da raccontare.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21449976eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20260326063000 +0000" stop="20260326065500 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">L'aritmetica di Choco</sub-title>
+    <desc lang="it">Dopo essere stata sostituita a lavoro dal nuovo cassiere robot, Choco trova un insegnante di matematica per affinare le sue abilità aritmetiche.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21580230eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20260326065500 +0000" stop="20260326073000 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Le 100 vittorie di Pan Barbiere</sub-title>
+    <desc lang="it">Pan Barbiere sta per vincere la centesima puntata del talent show "Rifammi i capelli". Tuttavia, quando si aggiunge un nuovo partecipante, Pan Barbiere affronta una sfida quasi impossibile.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21641406eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20260326073000 +0000" stop="20260326073500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Una scimmia da salvare; Le battute di papà</sub-title>
+    <desc lang="it">Jeanette decide di salvare una scimmietta che gli Humphrey tengono rinchiusa in una gabbia. La signorina Smith chiede a Dave di presentare il talent show di beneficenza della scuola e di intrattenere il pubblico.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18072242eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E19</episode-num>
+  </programme>
+  <programme start="20260326073500 +0000" stop="20260326075000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Il chipmunk prescelto; Dangus al quadrato</sub-title>
+    <desc lang="it">Simon approfitta della curiosità di Alvin e gli fa testare, a sua insaputa, una realtà virtuale da lui stesso creata. In città arriva Dirk, il fratello dell'agente Doris Dangus, molto diverso caratterialmente da lui.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18698656eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326075000 +0000" stop="20260326080000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">L'ultimo giorno d'estate; Un robot emotivo</sub-title>
+    <desc lang="it">Arriva l'ultimo giorno di scuola e Alvin legge a Simon e Theodor la sua lista di cose da fare durante l'estate. Simon costruisce in gran segreto un robot di nome Geizmo, dotato di un'intelligenza emotiva.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18714358eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E21</episode-num>
+  </programme>
+  <programme start="20260326080000 +0000" stop="20260326081500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Ehi, Troll; L'anima della festa</sub-title>
+    <desc lang="it">Dave partecipa a una rimpatriata e si esibisce cantando con la chitarra come quando era studente. BoCarter, il ricco compagno di scuola di Alvin, organizza una festa sullo yacht per il suo compleanno.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18785651eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E22</episode-num>
+  </programme>
+  <programme start="20260326081500 +0000" stop="20260326082500 +0000" channel="K2">
+    <title lang="it">Karate Sheep</title>
+    <sub-title lang="it">Gara di trampolino elastico</sub-title>
+    <desc lang="it">Trico è felice che il bel tempo gli permetta di saltare di nuovo sul trampolino. Serge ride delle acrobazie delle pecore e gli mostra le sue evoluzioni. Trico riesce a lanciare le pecore in aria.</desc>
+    <credits>
+      <director>Renaud Martin</director>
+      <director>Cédric Dietsch</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30652095eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20260326082500 +0000" stop="20260326085000 +0000" channel="K2">
+    <title lang="it">Karate Sheep</title>
+    <sub-title lang="it">Cane da pastore cercasi</sub-title>
+    <desc lang="it">Wanda si ferisce ad una zampa e non riesce più a badare alle pecore come prima. Trico suggerisce di assumere un cane pastore per svolgere il lavoro. Dopo qualche esitazione iniziale, Wanda accetta.</desc>
+    <credits>
+      <director>Renaud Martin</director>
+      <director>Cédric Dietsch</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30652105eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20260326085000 +0000" stop="20260326091500 +0000" channel="K2">
+    <title lang="it">Karate Sheep</title>
+    <sub-title lang="it">La gara di atletica</sub-title>
+    <desc lang="it">Trico ha delle nuove scarpe da ginnastica e sfida Wanda in una gara. Trico è sicuro di vincere grazie alle sue scarpe. Wanda vuole la rivincita ma Trico bara, e le scarpe da corsa finiscono nelle mani di Wolf.</desc>
+    <credits>
+      <director>Renaud Martin</director>
+      <director>Cédric Dietsch</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30652118eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+  </programme>
+  <programme start="20260326091500 +0000" stop="20260326092500 +0000" channel="K2">
+    <title lang="it">Best &amp; Bester</title>
+    <desc lang="it">Best e Bester fanno del loro meglio per imbarcarsi sul loro volo, anche se non assomigliano alle foto dei loro passaporti. Best decide di far vincere alla sorella il titolo di Impiegata del mese.</desc>
+    <credits>
+      <director>Kitty Taylor</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23263451eh8ac_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">FI</country>
+    <country lang="it">CA</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260326092500 +0000" stop="20260326094000 +0000" channel="K2">
+    <title lang="it">Best &amp; Bester</title>
+    <desc lang="it">Rocky mangia per errore l'ultimo pezzo del puzzle di Best. Best si accorge di non aver restituito un libro alla biblioteca nei tempi prestabiliti.</desc>
+    <credits>
+      <director>Kitty Taylor</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23666812eh10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">FI</country>
+    <country lang="it">CA</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260326094000 +0000" stop="20260326095500 +0000" channel="K2">
+    <title lang="it">Best &amp; Bester</title>
+    <desc lang="it">Best e Bester si intrufolano sul set della loro soap opera preferita. Best e Bester decidono di entrare al cinema con i popcorn.</desc>
+    <credits>
+      <director>Kitty Taylor</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23666817eh10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">FI</country>
+    <country lang="it">CA</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260326095500 +0000" stop="20260326101000 +0000" channel="K2">
+    <title lang="it">Best &amp; Bester</title>
+    <sub-title lang="it">Rocky e il voto; Hotel a una stella</sub-title>
+    <desc lang="it">Rocky desidera essere nominata presidente del club. Best e Bester decidono di indagare su dove alloggia la stella del loro programma televisivo preferito.</desc>
+    <credits>
+      <director>Kitty Taylor</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23666821eh10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">FI</country>
+    <country lang="it">CA</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260326101000 +0000" stop="20260326102000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Malate per finta; Istant Gram</sub-title>
+    <desc lang="it">Brittany ha un brutto raffreddore ed è a letto ammalata. Eleanor la assiste, ma è insofferente alle sue continue richieste. Dave vorrebbe iscriversi a Instant Gram per restare al passo con i tempi, ma Alvin è contrario.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18894587eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E23</episode-num>
+  </programme>
+  <programme start="20260326102000 +0000" stop="20260326103000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Topolini e scoiattoli; Simon salva il mondo</sub-title>
+    <desc lang="it">Jeanette e Simon decidono di partecipare a un corso di scienze per guadagnare crediti extra. Simon crea un acceleratore di particelle con la centrifuga della lavatrice, ma presto si rende conto di un enorme problema.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18819034eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E24</episode-num>
+  </programme>
+  <programme start="20260326103000 +0000" stop="20260326104500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Un giorno con lo zio Alvin; Basta noia!</sub-title>
+    <desc lang="it">Simon sta per partire per una gita di alcuni giorni e su consiglio di Dave lascia il suo robot Geizmo da Jeanette. Dave mette in punizione Alvin togliendogli il cellulare per fargli capire che ci si può divertire anche senza.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18819069eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E25</episode-num>
+  </programme>
+  <programme start="20260326104500 +0000" stop="20260326105500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Buon Natale dai Chipmunk</sub-title>
+    <desc lang="it">Theodore viene scamabiato per un elfo e mandato al Polo Nord per aiutare Babbo Natale. Il piccolo scoiattolo si ritrova quindi a lavorare nella leggendaria fabbrica di giocattoli che fa felici i bambini di tutto il mondo.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18701523eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E26</episode-num>
+  </programme>
+  <programme start="20260326105500 +0000" stop="20260326110500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Nelle scarpe di un altro</sub-title>
+    <desc lang="it">Per ottenere il ruolo principale in un'opera teatrale, Alvin fa una scommessa con Brittany per dimostrare di saper lavorare come calzolaio senza mai uscire dal personaggio.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17675786eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326110500 +0000" stop="20260326112000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">La principessa reale</sub-title>
+    <desc lang="it">Brittany si convince di essere una principessa smarrita da tanto tempo, ma Alvin non le crede. I due fanno una scommessa, ma Brittany prende il suo ruolo un po' troppo sul serio.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16932686ih10ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326112000 +0000" stop="20260326115000 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <desc lang="it">Bread, appassionato di yoga con Choco, subisce un infortunio alla schiena. Bread, che è completamente guarito dopo essere stato curato dal maestro di yoga, va direttamente all'accademia di yoga.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21688890eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20260326115000 +0000" stop="20260326122000 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">La malefatta di Pan Vapore</sub-title>
+    <desc lang="it">Una serie di curiosi incidenti nel negozio di Pan Barbiere mette Wilk e Choco nei guai. Cercano, quindi, di capire chi sta cercando di sabotarli.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22583292eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme>
+  <programme start="20260326122000 +0000" stop="20260326124500 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">La casa dei fantasmi</sub-title>
+    <desc lang="it">Il nostro trio di barbieri visita una villa infestata in occasione di Halloween, con artisti che non sono affatto inquietanti. Pan Barbiere dà una mano in modo che possano entrare nella parte.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22722399eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20260326124500 +0000" stop="20260326130000 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Wilk e la pianta di fagioli</sub-title>
+    <desc lang="it">Un germoglio verde cresce al posto del fagiolo magico. Il germoglio cresce rapidamente e la famiglia del barbiere del pane è ipnotizzata dalla vista misteriosa.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21902942eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20260326130000 +0000" stop="20260326131500 +0000" channel="K2">
+    <title lang="it">Salseria</title>
+    <sub-title lang="it">Il mostro della farina</sub-title>
+    <desc lang="it">Quahndo lo scherzo di Black Tyke trasforma la Farina in un mostro, le Salse usano i loro poteri scintillanti per riportarla al suo stato originale.</desc>
+    <credits>
+      <director>Jang Jin-hoon</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23793844ih10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260326131500 +0000" stop="20260326132500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Un allenamento speciale</sub-title>
+    <desc lang="it">L'allenatore Dobkins decide di cacciare Cheesy e Theodore fuori dalla squadra a causa della loro lentezza. Tuttavia, Theodore è fortemente determinato a voler giocare.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17766659eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326132500 +0000" stop="20260326134000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Il giorno del mondo</sub-title>
+    <desc lang="it">In occasione della celebrazione della Giornata del Mondo, ognuno dei Chipmunks ha il compito di presentare un paese all'intera classe.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17766782eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326134000 +0000" stop="20260326135000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Reazione allergica</sub-title>
+    <desc lang="it">Mentre si esercita insieme a Eleanor per una gara di panificazione in televisione, Theodore sviluppa una reazione allergica, e viene immediatamente messo a dieta senza zucchero.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17766954eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326135000 +0000" stop="20260326140500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Una festa movimentata</sub-title>
+    <desc lang="it">Alvin e i suoi fratelli sono soli per il fine settimana, e Derek decide di approfittarne e organizza una grande festa a casa loro.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17878430eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326140500 +0000" stop="20260326141500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Licenza di insegnare</sub-title>
+    <desc lang="it">La scuola chiude per tre giorni a causa di un'epidemia di pidocchi e Dave crea un'aula in casa e fa da insegnante.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17766967eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326141500 +0000" stop="20260326143000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Una scimmia da salvare</sub-title>
+    <desc lang="it">Jeanette e i Chipmunks stanno orchestrando un'irruzione a casa di Bocarter perchè vogliono cercare di salvare uno scimpanzé.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18001742eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326143000 +0000" stop="20260326144500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">La mega battaglia del rimbalzo</sub-title>
+    <desc lang="it">Dave proibisce ai ragazzi di fare un gioco pericoloso, ma loro, ovviamente, disobbediscono. In seguito, però, finiscono col farsi male e devono nascondere le loro ferite per evitare di essere anche puniti.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17878457eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326144500 +0000" stop="20260326145500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Il giornale della scuola</sub-title>
+    <desc lang="it">Le vendite del giornali scolastico vedono un aumento esponenziale. Il motivo è la comparsa di una nuova rubrica di pettegolezzi, che presenta articoli su alcuni studenti, prendendoli in giro.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18010074eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326145500 +0000" stop="20260326151000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Dottor Zap contro Electroboy</sub-title>
+    <desc lang="it">Theodore viene colpito da un fulmine e pensa di essere Electroboy, il supereroe dei fumetti. Tuttavia, successivamente, gli viene detto che in realtà non è un eroe, ma un cattivo.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17878432eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326151000 +0000" stop="20260326152000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Le battute di papà</sub-title>
+    <desc lang="it">A Dave viene chiesto di partecipare a uno spettacolo della scuola e inventare alcune battute divertenti. Alvin è perplesso perché Dave non è affatto divertente. I Chipmunks, quindi, fanno di tutto per aiutarlo.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18024901eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326152000 +0000" stop="20260326153500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Il Chipmunk prescelto</sub-title>
+    <desc lang="it">Alvin si intrufola nel nuovo gioco di realtà virtuale di Simon, e viene trasportato in un mondo che ha un disperato bisogno di un eroe. Alvin, quindi, prende subito il suo nuovo ruolo molto seriamente.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18356011eh11aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326153500 +0000" stop="20260326155500 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Bilk latte di campagna</sub-title>
+    <desc lang="it">Stanco della vita di campagna, Bilk, il cugino di Wilk, si trasferisce in città e convince Pan Barbiere ad avviare una propria attività agricola.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21989639eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+  </programme>
+  <programme start="20260326155500 +0000" stop="20260326161000 +0000" channel="K2">
+    <title lang="it">Superthings Rivals of Kaboom, Kazoom Power</title>
+    <desc lang="it">I ragazzi Kazoom si infiltrano nella base del signor King per recuperare il Kazoom. Dopo aver superato diversi ostacoli, trovano il cristallo. Tuttavia, quando lo spostano, tutti gli allarmi si attivano e inizia un inseguimento.</desc>
+    <credits>
+      <director>David Cuevas</director>
+      <director>Jonathan Cuevas</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28266205eh11aa_Iconic_W660.webp" />
+    <country lang="it">ES</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260326161000 +0000" stop="20260326163500 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Le tre torte di riso</sub-title>
+    <desc lang="it">Pan Barbiere sfugge per un soffio a pericoli di vario genere e si rende conto che la sua vita è in pericolo. Cerca di scoprire perché ha un bersaglio sulla schiena.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22857734eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20260326163500 +0000" stop="20260326170000 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Salsiccia d'oro, Salsiccia sapiente e Salsiccia forzuta</sub-title>
+    <desc lang="it">Mentre la famiglia si diverte al campeggio, una deliziosa salsiccia cade accidentalmente in acqua e inizia a galleggiare via. Inizia il calvario di Bread e Wilk per difenderla.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22448706eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E12</episode-num>
+  </programme>
+  <programme start="20260326170000 +0000" stop="20260326171500 +0000" channel="K2">
+    <title lang="it">Piñata Smashlings</title>
+    <sub-title lang="it">Meet The Characters</sub-title>
+    <desc lang="it">Quattro Smashlings si uniscono per formare una squadra di eroi.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+  </programme>
+  <programme start="20260326171500 +0000" stop="20260326172500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Dangus al quadrato</sub-title>
+    <desc lang="it">L'agente Dangus ha un fratello gemello che è un vero e proprio bullo, ma i Chipmunks sono lì per dargli forza e lo incoraggiano a tenergli testa.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18356037eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326172500 +0000" stop="20260326174000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">L'ultimo giorno d'estate</sub-title>
+    <desc lang="it">Alvin spreca tutta l'estate a giocare a un videogioco. Un giorno, tuttavia, si rende conto che le vacanze stanno per finire e cerca di fare tutte le cose divertenti che aveva pianificato.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18355972eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326174000 +0000" stop="20260326175500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Un robot emotivo</sub-title>
+    <desc lang="it">Simon inventa un robot che ha emozioni e capacità di apprendimento. La macchina sembra funzionare alla perfezione, ma si ritorce contro il suo creatore quando viene esposta a Internet.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18509956eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326175500 +0000" stop="20260326181000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Malate per finta</sub-title>
+    <desc lang="it">Eleanor e Jeanette si prendono cura di Brittany, che è malata. Le due ragazze, tuttavia, si chiedono se anche Brittany si prenderebbe cura di loro allo stesso modo se fossero malate.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16932686ih10ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326181000 +0000" stop="20260326182000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Ehi, Troll</sub-title>
+    <desc lang="it">Dave ottiene commenti negativi in uno spettacolo sul web e i Chipmunks e le Chipettes fanno di tutto pur di non farglieli leggere.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18594167eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326182000 +0000" stop="20260326184500 +0000" channel="K2">
+    <title lang="it">Japanizi: Going, Going, Gong!</title>
+    <desc lang="it">I concorrenti si arruffano le piume e si bagnano un po'. Fanno scoppiare le loro bolle di sapone e cercano di realizzare l'atterraggio perfetto per finire.</desc>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10285980eh10aa_Iconic_W660.webp" />
+    <country lang="it">CA</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260326184500 +0000" stop="20260326191500 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">La macchina del tempo</sub-title>
+    <desc lang="it">Geloso del successo di Pan, Patato decide di viaggiare indietro nel tempo e impedirgli di perseguire il suo sogno di parrucchiere.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22029291eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E13</episode-num>
+  </programme>
+  <programme start="20260326191500 +0000" stop="20260326192500 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Una dolce vendetta</sub-title>
+    <desc lang="it">I cittadini di una città zuccherina decidono di combattere i golosi prodotti da forno, ma prima hanno bisogno dell'aiuto di Pan Barbiere.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22645004eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E14</episode-num>
+  </programme>
+  <programme start="20260326192500 +0000" stop="20260326195500 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">Il fan piu' accanito di Macaron</sub-title>
+    <desc lang="it">Pan Barbiere si innamora della cantante Macaron e diventa un suo super fan, realizzando per lei un'acconciatura speciale.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
+  </programme>
+  <programme start="20260326195500 +0000" stop="20260326200500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">L'anima della festa</sub-title>
+    <desc lang="it">Alvin, Simon, Theodore, Kevin e Cheesy sono gli unici a non essere stati invitati alla festa di Bocarter ma cercheranno comunque di partecipare.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18594178eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326200500 +0000" stop="20260326201500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Instant Gram</sub-title>
+    <desc lang="it">Dave ha creato un account Instant Gram. Dopo diversi post imbarazzanti, Alvin fa il l'impossibile per fermare il fratello.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16932686ih10ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326201500 +0000" stop="20260326203000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Topolini e scoiattoli</sub-title>
+    <desc lang="it">Simon e Jeanette vogliono seguire un corso di storia naturale in modo da poter ottenere punti extra. Simon porta a casa una scatola misteriosa. Alvin è curioso e vuole disperatamente sapere cosa c'è dentro.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18647374eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326203000 +0000" stop="20260326204500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Survivor</sub-title>
+    <desc lang="it">Visto che Alvin è rimasto ferito, Simon accetta di affrontare Derek durante un reality show di sopravvivenza, dove c'è spazio per solo un vincitore. Giocare sporco potrebbe essere l'unico modo per vincere.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12593030eh11ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326204500 +0000" stop="20260326210000 +0000" channel="K2">
+    <title lang="it">Let's go con JoEnglish</title>
+    <sub-title lang="it">Che spettacolo!</sub-title>
+    <desc lang="it">È finalmente arrivato il giorno dello spettacolo e i ragazzi sono pronti. Joe cerca di tranquillizzarli, ma è più agitato di loro.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/400.401_genre_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20260326210000 +0000" stop="20260326215500 +0000" channel="K2">
+    <title lang="it">Lo zoo degli Irwin</title>
+    <sub-title lang="it">L'alligatore</sub-title>
+    <desc lang="it">I 44 alligatori dello zoo sono particolarmente affamati e Robert ha il pericoloso compito di sfamarli. Terri aiuta a esaminare Kaitlyn la tigre e fa un'emozionante scoperta. Bindi segue la straziante storia della zebra Zambezi.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17526210eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260326215500 +0000" stop="20260326225000 +0000" channel="K2">
+    <title lang="it">Lo zoo degli Irwin</title>
+    <sub-title lang="it">Le tartarughe</sub-title>
+    <desc lang="it">Robert e Terri prendono il volo per liberare alcune tartarughe marine vicino alla Grande Barriera Corallina. Bindi attende con impazienza la nascita del primo cucciolo di tigre dello zoo dopo anni.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17580538eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260326225000 +0000" stop="20260326234000 +0000" channel="K2">
+    <title lang="it">Toy Inventor, inventori in gioco</title>
+    <sub-title lang="it">Un inventore fra tanti</sub-title>
+    <desc lang="it">Scopriamo chi riuscirà a realizzare il proprio sogno e costruire un giocattolo.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25942173ih10ab_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260326234000 +0000" stop="20260327000000 +0000" channel="K2">
+    <title lang="it">Desperate House Cats</title>
+    <sub-title lang="it">Il gatto fuori dal sacco</sub-title>
+    <desc lang="it">Il proverbio dice non dire gatto se non ce l'hai nel sacco. E in alcuni casi si tratta di una verità da prendere alla lettera.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8172383eh8aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20260327000000 +0000" stop="20260327002000 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">I Dalton cercano di fuggire in nuovi modi creativi, in particolare con la poesia e travestendosi da totem dei nativi americani.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11285654eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260327002000 +0000" stop="20260327004000 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">Dopo un seminario sulla danza della pioggia, Averell dimostra di essere molto bravo a sconvolgere il clima. I Dalton decidono di nascondersi sotto una pioggia torrenziale per fuggire.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11285667eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260327004000 +0000" stop="20260327010000 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Il labirinto</sub-title>
+    <desc lang="it">Dopo un inseguimento, Sharko, Marina e Zig si ritrovano nella sala motori. Zig tenta, ancora una volta, di catturare la sirena, mentre Sharko cerca disperatamente di individuare l'uscita.</desc>
+    <credits>
+      <director>Olivier Jean-Marie</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17319954eh10ab_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327010000 +0000" stop="20260327012500 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Il prezzemolo</sub-title>
+    <desc lang="it">Marina ha un grosso pezzo di prezzemolo tra i denti. Disgustato, Sharko distoglie lo sguardo dalla sirena mentre cerca di farle capire quale sia il problema. Zig, nel frattempo, approfitta della situazione per catturare Marina.</desc>
+    <credits>
+      <director>Olivier Jean-Marie</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17319962eh10ab_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327012500 +0000" stop="20260327014500 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Viking Love</sub-title>
+    <desc lang="it">Olga, l'umana vichinga, si innamora di Zig, il quale è felice di avere qualcuno che lo difenda contro Sharko. Tuttavia, Olga lo tiene lontano anche da Marina.</desc>
+    <credits>
+      <director>Olivier Jean-Marie</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17319967eh10ab_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327014500 +0000" stop="20260327021000 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Hide and Squeek</sub-title>
+    <desc lang="it">Marina e Sharko giocano a nascondino, ma la sirena non sa nascondersi molto bene. Zig decide di aiutarla, ma Sharko non si lascia ingannare. Continuando a tenere d'occhio la iena, lo squalo perde di vista Marina. Neanche Zig sa dove sia.</desc>
+    <credits>
+      <director>Olivier Jean-Marie</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17319980eh10ab_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327021000 +0000" stop="20260327023000 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">Per fuggire, questa volta i fratelli Dalton invadono la prigione, drogano le guardie e giocano a rugby.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11285640eh8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260327023000 +0000" stop="20260327041500 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">La signorina Betty sta ristrutturando il suo appartamento e chiede consiglio ad Averell, che ha molto buon gusto. Poiché la signorina Betty ha una chiave di riserva del penitenziario, Joe decide di impersonare Averell.</desc>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8749320eh8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260327041500 +0000" stop="20260327043500 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">La presenza di una troupe televisiva offre ai Dalton l'occasione perfetta per fuggire. Averell viene istruito da un incantatore di serpenti.</desc>
+    <credits>
+      <director>Charles Vaucelle</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11285568eh10ab_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260327043500 +0000" stop="20260327050000 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">I fratelli Dalton cercano di evadere dalla prigione costruendo una macchina del tempo. Volano fuori dalla prigione con una mongolfiera e partecipando a una mostra floreale.</desc>
+    <credits>
+      <director>Charles Vaucelle</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11285558eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20260327050000 +0000" stop="20260327052000 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Nel bene e nel male</sub-title>
+    <desc lang="it">Due polpi si sono appena sposati e devono trascorrere la luna di miele sulla barca. Con l'aiuto di Sharko, Marina si impegna a rendere piacevole il loro soggiorno.</desc>
+    <credits>
+      <director>Yani Ouabdesselam</director>
+      <director>Nicolas Bougard</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26644892eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327052000 +0000" stop="20260327054000 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Ciabatte show</sub-title>
+    <desc lang="it">Marina adora far ridere Sharko con il suo burattino. Inebriata dal suo talento comico, continua a disturbarlo durante le sue attività.</desc>
+    <credits>
+      <director>Yani Ouabdesselam</director>
+      <director>Nicolas Bougard</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26644884eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327054000 +0000" stop="20260327055000 +0000" channel="K2">
+    <title lang="it">Zig &amp; Sharko</title>
+    <sub-title lang="it">Il sentiero</sub-title>
+    <desc lang="it">Mentre fa karate, Marina perde il suo batacchio, che finisce nella giungla. Sharko, Marina e gli altri ballerini di tip tap partono alla sua ricerca, ma Zig e Bernie attirano la sirena in una trappola.</desc>
+    <credits>
+      <director>Yani Ouabdesselam</director>
+      <director>Nicolas Bougard</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26452177eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S4 E22</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327055000 +0000" stop="20260327061500 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <desc lang="it">In una città piena di ogni genere alimentare, il barbiere e maestro decoratore di torte Pan Barbiere offre rimedi e soluzioni brillanti che cambiano nettamente la vita ai clienti del suo salone.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+  </programme>
+  <programme start="20260327061500 +0000" stop="20260327063000 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">Wilky, la principessa magica</sub-title>
+    <desc lang="it">La fata della panna montata trasforma Wilk in una principessa magica per portare pace nel mondo.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20260327063000 +0000" stop="20260327065500 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <desc lang="it">In una città piena di ogni genere alimentare, il barbiere e maestro decoratore di torte Pan Barbiere offre rimedi e soluzioni brillanti che cambiano nettamente la vita ai clienti del suo salone.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+  </programme>
+  <programme start="20260327065500 +0000" stop="20260327073000 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">Il misterioso album di Cacio</sub-title>
+    <desc lang="it">Cacio trova un album che dà vita ai suoi disegni e si diverte a creare acconciature per tutti.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20260327073000 +0000" stop="20260327073500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Basta noia!</sub-title>
+    <desc lang="it">Dave ha deciso di confiscare il cellulare di Alvin come punizione. Il giovane Chipmunk non sa cosa fare del suo tempo libero e diventa pazzo di noia.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18666515eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260327073500 +0000" stop="20260327075000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Un giorno con lo zio Alvin</sub-title>
+    <desc lang="it">Quando Alvin rapisce Geizmo, il robot di Simon, riceve una lezione importante su come si debba educare correttamente un bambino.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18666537eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260327075000 +0000" stop="20260327080000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">L'orsetto parlante; La nuova preside</sub-title>
+    <desc lang="it">Il nuovo orsacchiotto parlan da solo, facendo impazzire Theodore, Alvin e Simon. Alvin non è affatto entusiasta di tornare a scuola finché non vede il nuovo direttore.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997836eh10ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260327080000 +0000" stop="20260327081500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">A Is for Alien; Jeanette Enchanted</sub-title>
+    <desc lang="it">Alvin e Simon sono convinti che Theodore sia stato rapito dagli alieni, e devono trovare un modo per salvarlo. Intanto, i Chipmunks organizzano una festa di compleanno da favola per Jeanette.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997837eh10ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20260327081500 +0000" stop="20260327082500 +0000" channel="K2">
+    <title lang="it">Karate Sheep</title>
+    <sub-title lang="it">La festa delle bolle</sub-title>
+    <desc lang="it">Wanda è così impegnata a sorvegliare il branco che non presta attenzione a nient'altro. Per distrarla, Trico le mostra delle bolle di sapone. Trico non si rende conto però che sta così attirando l'attenzione dell'intero branco.</desc>
+    <credits>
+      <director>Renaud Martin</director>
+      <director>Cédric Dietsch</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30652126eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+  </programme>
+  <programme start="20260327082500 +0000" stop="20260327085000 +0000" channel="K2">
+    <title lang="it">Karate Sheep</title>
+    <sub-title lang="it">C'è puzza di guai</sub-title>
+    <desc lang="it">Dopo aver sudato molto, Trico si spruzza molto deodorante per non puzzare. Sia le pecore che Wolf trovano terribile l'odore del deodorante. Lupo approfitta della situazione per trarne vantaggio.</desc>
+    <credits>
+      <director>Renaud Martin</director>
+      <director>Cédric Dietsch</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30652156eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+  </programme>
+  <programme start="20260327085000 +0000" stop="20260327091500 +0000" channel="K2">
+    <title lang="it">Karate Sheep</title>
+    <sub-title lang="it">Musica bestiale</sub-title>
+    <desc lang="it">Trico registra la canzone fischiettata da Wolf. Wanda attribuisce a Trico il merito di averne inventato la melodia. Quando Wolf cerca di sfruttare la situazione a suo favore, Trico deve comporre il proprio pezzo.</desc>
+    <credits>
+      <director>Renaud Martin</director>
+      <director>Cédric Dietsch</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20260327091500 +0000" stop="20260327092500 +0000" channel="K2">
+    <title lang="it">Best &amp; Bester</title>
+    <desc lang="it">Best e Bester aiutano un signore decidendo di creare per lui un'attività turistica. Diamondo desidererebbe molto avere un fratello.</desc>
+    <credits>
+      <director>Kitty Taylor</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23666824eh10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">FI</country>
+    <country lang="it">CA</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327092500 +0000" stop="20260327094000 +0000" channel="K2">
+    <title lang="it">Best &amp; Bester</title>
+    <desc lang="it">Best e Bester vanno a fare compere, siccome non hanno soldi, Bester si trasforma in un bancomat. Best e Bester per farsi perdonare del disastro creato al cafè di Flip-Flop inventano un nuovo milkshake.</desc>
+    <credits>
+      <director>Kitty Taylor</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23761251eh10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">FI</country>
+    <country lang="it">CA</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327094000 +0000" stop="20260327095500 +0000" channel="K2">
+    <title lang="it">Best &amp; Bester</title>
+    <desc lang="it">Best, fan accanito di romanzi, vince un concorso per aver proposto una nuova idea. Rocky incaricata da Diamondo come House sitter si imbatte in Best e Bester che vogliono entrare a giocare.</desc>
+    <credits>
+      <director>Kitty Taylor</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23761253eh10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">FI</country>
+    <country lang="it">CA</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327095500 +0000" stop="20260327101000 +0000" channel="K2">
+    <title lang="it">Best &amp; Bester</title>
+    <desc lang="it">Durante il Giorno Okay, Best e Bester vengono banditi dalla città perché combinano troppi guai. Bester, rendendosi invisibile, riesce comunque ad entrare nel villaggio.</desc>
+    <credits>
+      <director>Kitty Taylor</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23761255eh10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">FI</country>
+    <country lang="it">CA</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+  </programme>
+  <programme start="20260327101000 +0000" stop="20260327102000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Cambio Casa</sub-title>
+    <desc lang="it">Dopo una lotta con Brittany, Eleanor decide di trasferirsi con Alvin ei suoi fratelli. Theodore pensa perseguire la musica quando si pubblica il video online rappare e diventa un grande successo.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997838eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260327102000 +0000" stop="20260327103000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">La gemma misteriosa; Spirito di famiglia</sub-title>
+    <desc lang="it">Alvin è convinto che il suo vicino di casa sia responsabile di una recente rapina di diamanti. Inoltre, Alvin cercare di evitare il picnic annuale di famiglia con Dave per partecipare ad una partita di calcio.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997839eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260327103000 +0000" stop="20260327104500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">The App; Don Juan Theodoro</sub-title>
+    <desc lang="it">Dave ha una nuova applicazione per genitori che lo aiuta a controllare i Chipmunks. Alvin, Simon e le Chipettes danno a Theodore consigli sulle donne quando credono che lui abbia una cotta per una ragazza.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997840eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260327104500 +0000" stop="20260327105500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Votate Simon!</sub-title>
+    <desc lang="it">Alvin sorprende Simon a fare un test per scoprire la sua anima gemella. Intanto Simon e Alvin diventano rivali e lanciano le proprie campagne per essere rappresentate di classe.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997841eh10ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260327105500 +0000" stop="20260327110500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">To Serve and Protect; Kickin' It Old School</sub-title>
+    <desc lang="it">Dopo che Simon viene eletto come guardia di sicurezza a scuola, si presenta subito una scelta difficile che riguarda direttamente Alvin. Dave porta gli scoiattoli in gita senza tecnologia.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997842eh10ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260327110500 +0000" stop="20260327112000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Che Paura!; I bulli della scuola﻿</sub-title>
+    <desc lang="it">Theodore spera di ottenere il ruolo del mostro nella recita scolastica. Nel frattempo, Simon costruisce un robot guardia del corpo per aiutarlo a confrontarsi con i bulli della scuola.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997843eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20260327112000 +0000" stop="20260327115000 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">Choco e Macaron</sub-title>
+    <desc lang="it">Quando l'icona del pop Macaron viene attaccata, Choco interviene per salvarla.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20260327115000 +0000" stop="20260327122000 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">Nuovi stili a confronto</sub-title>
+    <desc lang="it">Pan Barbiere fa fatica a a stare al passo con le nuove tendenze passeggere in fatto di acconciature.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20260327122000 +0000" stop="20260327124500 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">La vera storia di Patato</sub-title>
+    <desc lang="it">Pan Barbiere e Patato raccontano a Wilk da dove nasce il forte disprezzo tra loro, ma hanno due versioni della storia differenti.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <programme start="20260327124500 +0000" stop="20260327130000 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">Le Caramelle</sub-title>
+    <desc lang="it">La band delle Caramelle rischia di sciogliersi quando la cantante Limone decide di uscire dal gruppo, ma per fortuna interviene Pan Barbiere.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  <programme start="20260327130000 +0000" stop="20260327131500 +0000" channel="K2">
+    <title lang="it">Salseria</title>
+    <desc lang="it">È il giorno della festa del villaggio e si gareggia per il titolo di persona più dolce. Mela riuscirà a conquistare il primo posto superando i terribili scherzi di Black Taik? Una sfida zuccherina che vi terrà col fiato sospeso fino alla premiazione.</desc>
+    <credits>
+      <director>Jang Jin-hoon</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23793844ih10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260327131500 +0000" stop="20260327132500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Una sorella un po' strana; Il babysitter di quartiere</sub-title>
+    <desc lang="it">Jeanette cerca il consiglio di Alvin quando vuole fare un brindisi a Brittany alla sua prossima festa. Intanto Alvin decide di fare il lavoro da bambinaia al posto di Brittany.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997844eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20260327132500 +0000" stop="20260327134000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Alla Ricerca Del Gatto Scomparso</sub-title>
+    <desc lang="it">Theodore è convinto che il gatto scomparso della signorina Croner sia la causa di una terribile maledizione. Quando Dave ha un brutto raffreddore, Alvin si offre rapidamente di sostituirlo nel suo ruolo di padre.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997846eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260327134000 +0000" stop="20260327135000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Il videogioco; Dolci imprevisti</sub-title>
+    <desc lang="it">Dave teme che i Chipmunks siano diventati troppo ossessionati dal loro ultimo videogioco. Un Alvin a terra implora Theodore di comprargli uno skateboard speciale, in edizione limitata.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997847eh8ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20260327135000 +0000" stop="20260327140500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Il Berretto Magico</sub-title>
+    <desc lang="it">Alvin rapidamente si pente di aver dato il berretto ad un fan fortunato. Più tardi Alvin si reca allo zoo vestito in modo tale che lo confondono con un vero diavolo della Tasmania.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997848eh11ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20260327140500 +0000" stop="20260327141500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Un padre soffocante; Povero Dave!</sub-title>
+    <desc lang="it">Mentre Dave passa più tempo con gli scoiattoli, i quali cercano di trovargli una nuova fidanzata, gli scoiattoli rovinano inavvertitamente la nuova canzone che Dave stava preparando per un festival musicale.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997849eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20260327141500 +0000" stop="20260327143000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Safety Third; Mister Manners</sub-title>
+    <desc lang="it">Alvin convince Simon a costruire per lui l'esatta replica di una pericolosa auto sportiva. Per poter incontrare una vera principessa, Alvin deve superare un corso di buone maniere.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997850eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20260327143000 +0000" stop="20260327144500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">La casa sull'albero; Salviamo Simon</sub-title>
+    <desc lang="it">Mentre sono impegnate con le pulizie, le Chipettes raccontano le origini della loro casa sull'albero. Intanto Alvin e Theodore temono che Simon venga mandato in collegio e fanno di tutto per evitarlo.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997851eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+  </programme>
+  <programme start="20260327144500 +0000" stop="20260327145500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Ritorno sui banchi; Un amico per Simon</sub-title>
+    <desc lang="it">Quando scopre di non aver mai ottenuto un diploma, Dave deve tornare a scuola con Alvin. Intanto Jamie, il nuovo amico di Simon, lo abbandona, scegliendo al suo posto il più popolare Alvin.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997852eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+  </programme>
+  <programme start="20260327145500 +0000" stop="20260327151000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Una camera tutta per Alvin; Caccia al carrello</sub-title>
+    <desc lang="it">Alvin vuole dimostrare di meritarsi una camera tutta sua, ma quando la ottiene soffre di solitudine. Intanto i Chipmunks partecipano a una gara per vincere una bicicletta da regalare a Theodore.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997853eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+  </programme>
+  <programme start="20260327151000 +0000" stop="20260327152000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Alvin e l'ecologia; Il pettegolo</sub-title>
+    <desc lang="it">I Chipmunks e le Chipettes partecipano a un concorso, vivendo un'esperienza nel campo dell'ecologia. Alvin si prende cura di un uccello parlante per conto di una ragazza che gli piace.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997855eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20260327152000 +0000" stop="20260327153500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Un supereroe mascherato; Lo stile di Jeannette</sub-title>
+    <desc lang="it">Brittany pensa che sua sorella non abbia stile, ma Jeanette diventa una vera icona della moda. Intanto Theodore crede di essere un supereroe, ma Simon e Alvin devono convincerlo del contrario.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997856eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+  </programme>
+  <programme start="20260327153500 +0000" stop="20260327155500 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">La regina delle tasse</sub-title>
+    <desc lang="it">Sua Maestà la Regina delle Torte istituisce delle nuove tasse per poter spendere più soldi per sé.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S4 E9</episode-num>
+  </programme>
+  <programme start="20260327155500 +0000" stop="20260327161000 +0000" channel="K2">
+    <title lang="it">Superthings Rivals of Kaboom, Kazoom Power</title>
+    <desc lang="it">Catturato dai cattivi, Kid Fury deve superare tre prove per dimostrare il suo valore. Mentre Kai e Mia cercano di trovarlo, Mister King semina il dubbio.</desc>
+    <credits>
+      <director>David Cuevas</director>
+      <director>Jonathan Cuevas</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28266216eh10aa_Iconic_W660.webp" />
+    <country lang="it">ES</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260327161000 +0000" stop="20260327163500 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">Madeleine e il salone misterioso</sub-title>
+    <desc lang="it">Wilk e Choco vengono assunti nel nuovo salone da parrucchiere di Madeleine, ma il lavoro è diverso da quello che credevano.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+  </programme>
+  <programme start="20260327163500 +0000" stop="20260327170000 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">Le star di B-tube</sub-title>
+    <desc lang="it">Il grande successo del canale B Tube di Patato porta nuovi clienti alla sua bottega. Pan Barbiere non vuole essere da meno.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S4 E11</episode-num>
+  </programme>
+  <programme start="20260327170000 +0000" stop="20260327171500 +0000" channel="K2">
+    <title lang="it">Piñata Smashlings</title>
+    <sub-title lang="it">Super Mega Amazing Smashlings, Hurray!</sub-title>
+    <desc lang="it">Quattro Smashlings si uniscono per formare una squadra di eroi.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p29734444eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260327171500 +0000" stop="20260327172500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Il complotto del bacio; Ospiti a sorpresa</sub-title>
+    <desc lang="it">Simon è troppo timido per baciare una ragazza durante la recita organizzata dalla scuola, così Alvin prende il suo posto. Quando Dave non c'è, Alvin decide di mettere la casa in affitto.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11997858eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260327172500 +0000" stop="20260327174000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Theozilla; Molla l'osso</sub-title>
+    <desc lang="it">Alvin è in coppia con Simon al lavoro su un progetto scientifico. I due creano accidentalmente una pozione che si trasforma in un Theodore gigante. Alvin viene accusato di aver rubato i telefoni ai loro coetanei.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12274612eh11ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+  </programme>
+  <programme start="20260327174000 +0000" stop="20260327175500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Ammutinamento; Il reality di Alvin</sub-title>
+    <desc lang="it">Alvin aiuta i suoi amici ad allenarsi per una partita di calcio, ma le sue doti di allenatore non riscuotono l'entusiasmo del gruppo. Alvin decide di diventare una stella della televisione.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12274672eh10ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+  </programme>
+  <programme start="20260327175500 +0000" stop="20260327181000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Corvinator; La casa infestata</sub-title>
+    <desc lang="it">Eleanor prepara la sua torta d'autore per la grande competizione Bake Off e la lascia raffreddare fuori al fresco. Intanto i ragazzi sono preoccupati che Dave possa trasferirsi con la famiglia.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12274669eh10ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+  </programme>
+  <programme start="20260327181000 +0000" stop="20260327182000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">I poteri magici di Alvin; Survivor</sub-title>
+    <desc lang="it">Alvin dice a Theodore che ha poteri magici e può trasformare la spazzatura in caramelle. Gli scoiattoli trovano un uccellino che è caduto dal suo nido, e Alvin ha paura di affezionarsi a lui.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12274673eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+  </programme>
+  <programme start="20260327182000 +0000" stop="20260327184500 +0000" channel="K2">
+    <title lang="it">Japanizi: Going, Going, Gong!</title>
+    <desc lang="it">I concorrenti devono consegnare le pizze su un ponte traballante vestiti da fette. Le squadre devono quindi cercare gli anelli in una ciotola di panna montata.</desc>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10285982eh10aa_Iconic_W660.webp" />
+    <country lang="it">CA</country>
+  </programme>
+  <programme start="20260327184500 +0000" stop="20260327191500 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">Choco, azione!</sub-title>
+    <desc lang="it">Choco diventa una controfigura in un film d'azione, ma l'attrice protagonista, Formaggina, temendo di essere sostituita, la boicotta.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30637028eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S4 E12</episode-num>
+  </programme>
+  <programme start="20260327191500 +0000" stop="20260327192500 +0000" channel="K2">
+    <title lang="it">Il Barbiere Pasticciere</title>
+    <sub-title lang="it">Un artista a sorpresa</sub-title>
+    <desc lang="it">Tre famose modelle entrano nella bottega di Pan Barbiere, ma lui non c'è e tocca a Wilk sostituirlo, il quale dovrà riuscire a superare le proprie insicurezze.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/600.608_genre_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S4 E13</episode-num>
+  </programme>
+  <programme start="20260327192500 +0000" stop="20260327195500 +0000" channel="K2">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Ecco a voi Knie Arancione</sub-title>
+    <desc lang="it">Il succo di carota Knie per diventare più forte e combattere i bulli come Patato chiede aiuto a Pan Barbiere che lo trasforma in un vero supereroe.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24998805eh10aa_Iconic_W660.webp" />
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260327195500 +0000" stop="20260327200500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">I Will Survive; Alvin's Got a Brand New Bag</sub-title>
+    <desc lang="it">Quando Alvin si fa male, Simon giura di sfidare Derek in un programma di sopravvivenza. Alvin rovina accidentalmente la borsa preferita di Brittany e deve trovare un modo per sostituirla.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12560435eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+  </programme>
+  <programme start="20260327200500 +0000" stop="20260327201500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">In gabbia</sub-title>
+    <desc lang="it">Alvin va allo zoo travestito e viene scambiato per un piccolo diavolo della Tasmania. Questo causa grossi problemi, specialmente quando Simon scopre che il diavolo della Tasmania ha bisogno di un'operazione.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11950991eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260327201500 +0000" stop="20260327203000 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">La sicurezza non è un optional</sub-title>
+    <desc lang="it">Dave si rifiuta di comprare ad Alvin una pericolosa auto sportiva giocattolo e Alvin convince Simon a costruirne una replica esatta come compito per la scuola, ma l'operazione deve essere compiuta in gran segreto.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12038841eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260327203000 +0000" stop="20260327204500 +0000" channel="K2">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Mister Buone Maniere</sub-title>
+    <desc lang="it">Alvin segue un corso di buone maniere per riuscire ad avere un appuntamento con la meravigliosa principessa d'Inghilterra. Il problema è che deve convincere Brittany di esserne all'altezza.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12038842eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260327204500 +0000" stop="20260327210000 +0000" channel="K2">
+    <title lang="it">Let's go con JoEnglish</title>
+    <sub-title lang="it">L'insegnante di musical</sub-title>
+    <desc lang="it">Joe, uno stravagante insegnante d'inglese, finisce per errore in una classe di musical e deve aiutare gli studenti a preparare uno spettacolo.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/225/400.401_genre_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260327210000 +0000" stop="20260327215500 +0000" channel="K2">
+    <title lang="it">Toy Inventor, inventori in gioco</title>
+    <sub-title lang="it">Una scelta difficile</sub-title>
+    <desc lang="it">Ventotto concorrenti si sfidano per creare il gioco migliore e conquistare i quattro giudici.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25942173ih10ab_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260327215500 +0000" stop="20260327225000 +0000" channel="K2">
+    <title lang="it">La mia nuova casa sull'albero</title>
+    <sub-title lang="it">Bungalow</sub-title>
+    <desc lang="it">Una coppia sogna una casa sull'albero in grado di restituire un panorama mozzafiato sulle montagne. Pete si adopera per realizzare un bungalow con grandi finestre per poter ammirare la vista sul paesaggio.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15063247eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260327225000 +0000" stop="20260327234000 +0000" channel="K2">
+    <title lang="it">La mia nuova casa sull'albero</title>
+    <sub-title lang="it">Shaquille O'Neal</sub-title>
+    <desc lang="it">Pete e la squadra si cimentano in una costruzione sull'albero per l'ex giocatore di pallacanestro Shaquille O'Neal. La struttura è di forma decagonale, con un'altezza di 7 metri e scale molto ampie.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15083068eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260327234000 +0000" stop="20260328000000 +0000" channel="K2">
+    <title lang="it">Il mio gatto è in cima all'albero!</title>
+    <sub-title lang="it">Gatto da salvare</sub-title>
+    <desc lang="it">Dopo un lavoro di squadra per salvare il gatto Bear, Shaun parte da solo per la missione notturna alla ricerca del gatto Spaz, scomparso da tre settimane. Inoltre, a Bonney Lake, Tom e Shaun tentano di aiutare un gatto selvatico.</desc>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11715220eh11ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260328000000 +0000" stop="20260328002000 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">Per fuggire, questa volta i fratelli Dalton invadono la prigione, drogano le guardie e giocano a rugby.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11285640eh8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260328002000 +0000" stop="20260328021000 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">La signorina Betty sta ristrutturando il suo appartamento e chiede consiglio ad Averell, che ha molto buon gusto. Poiché la signorina Betty ha una chiave di riserva del penitenziario, Joe decide di impersonare Averell.</desc>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8749320eh8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260328021000 +0000" stop="20260328023000 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">La presenza di una troupe televisiva offre ai Dalton l'occasione perfetta per fuggire. Averell viene istruito da un incantatore di serpenti.</desc>
+    <credits>
+      <director>Charles Vaucelle</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11285568eh10ab_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260328023000 +0000" stop="20260328041500 +0000" channel="K2">
+    <title lang="it">I Dalton</title>
+    <desc lang="it">I fratelli Dalton cercano di evadere dalla prigione costruendo una macchina del tempo. Volano fuori dalla prigione con una mongolfiera e partecipando a una mostra floreale.</desc>
+    <credits>
+      <director>Charles Vaucelle</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11285558eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
   <programme start="20260326035500 +0000" stop="20260326041500 +0000" channel="Frisbee">
     <title lang="it">Oggy e i maledetti scarafaggi</title>
