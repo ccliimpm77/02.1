@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"><channel id="Rai News 24">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"><channel id="La 7d">
+    <display-name lang="de">La 7d</display-name>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/01c68f3e-5d90-4553-b86f-ffdcee004459_W90.png" />
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="Rai News 24">
     <display-name lang="de">Rai News 24</display-name>
     <url>http://www.tv.blue.ch</url>
   </channel>
@@ -21,6 +26,528 @@
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/3cb9862d-afca-4380-9fe5-54d846846bbc_W90.png" />
     <url>http://www.tv.blue.ch</url>
   </channel>
+  <programme start="20260326031000 +0000" stop="20260326042000 +0000" channel="La 7d">
+    <title lang="it">Hollywood Collection</title>
+    <sub-title lang="it">Marilyn Monroe</sub-title>
+    <desc lang="it">Rari filmati d'archivio e casalinghi raccontano la vita di una delle più grandi dive di sempre. Ne ripercorriamo la carriera con video tratti dai film più celebri che l'hanno vista come inteprete, come "A qualcuno piace caldo" e "Gli spostati".</desc>
+    <date>2017</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13812204eh11aa_Iconic_W660.webp" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20260326042000 +0000" stop="20260326045500 +0000" channel="La 7d">
+    <title lang="it">Uozzap</title>
+    <desc lang="it">Il meglio della programmazione con spezzoni di vecchi programmi e filmati di repertorio trasmessi da LA7, dalla sua nascita ad oggi.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15684799bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260326045500 +0000" stop="20260326050000 +0000" channel="La 7d">
+    <title lang="it">La7 Doc</title>
+    <desc lang="it">Selezione di documentari proposti dalla rete e dedicati a temi culturali, sociali, storici, artistici e naturalistici. Il meglio della produzione nazionale e internazionale in ambito divulgativo.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168688ih10ac_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260326050000 +0000" stop="20260326050500 +0000" channel="La 7d">
+    <title lang="it">Oroscopo</title>
+    <desc lang="it">Scopriamo assieme quali sorprese sono in serbo nel prossimo futuro per ciascuno dei segni dello zodiaco. L'appuntamento quotidiano con l'oroscopo de La7 è pronto a rivelare ogni sfumatura dell'influenza delle stelle.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12160647ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260326050500 +0000" stop="20260326051000 +0000" channel="La 7d">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Spazio dedicato alle previsioni del tempo in diretta, con un approccio unico firmato La7 e Paolo Sottocorona, meterologo e filosofo d'elezione della rete.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11259913ih11ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260326051000 +0000" stop="20260326051500 +0000" channel="La 7d">
+    <title lang="it">TG La7</title>
+    <desc lang="it">Edizione del notiziario televisivo a cura della redazione giornalistica di La7. Dal 24 Giugno 2001, gli aggiornamenti sui fatti più rilevanti a livello nazionale ed internazionale.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10691348ih8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260326051500 +0000" stop="20260326070000 +0000" channel="La 7d">
+    <title lang="it">Josephine angelo custode</title>
+    <sub-title lang="it">La speranza vola sui pattini</sub-title>
+    <desc lang="it">Josephine viene mandata in aiuto di Gabriel, un allenatore di pattinaggio artistico che potrebbe perdere il lavoro se non riesce a far vincere uno dei suoi allievi in una competizione regionale.</desc>
+    <credits>
+      <director>Jean-Marc Seban</director>
+      <director>Philippe Monnier</director>
+      <director>Pascal Heylbroeck</director>
+      <director>Jean-Luc Reichmann</director>
+      <director>Roméo Mariani</director>
+      <director>Marie Fugain</director>
+      <director>Evelyne Garby Klaï</director>
+      <director>Aminthe Audiard</director>
+      <director>Nelson Monfort</director>
+      <director>Philippe Candeloro</director>
+      <actor role="Joséphine">Mimie Mathy</actor>
+      <actor role="Auguste">Jean Dell</actor>
+      <actor role="Patrice Chamanier">Franck Adrien</actor>
+      <actor role="Odette">Isabelle Renauld</actor>
+      <actor role="Gabrielle Charmant">Brigitte Fossey</actor>
+      <actor role="François">Alexandre Brasseur</actor>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20811329eh8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S21 E3</episode-num>
+  </programme>
+  <programme start="20260326070000 +0000" stop="20260326084500 +0000" channel="La 7d">
+    <title lang="it">Josephine angelo custode</title>
+    <sub-title lang="it">Una grande passione</sub-title>
+    <desc lang="it">Joséphine si ritrova in una famiglia di sportivi, dove il rapporto tra la madre e il figlio è molto conflittuale. Questa è la situazione, soprattutto da quando quest'ultimo è stato licenziato da un centro di formazione per sportivi di alto livello.</desc>
+    <credits>
+      <director>Nicolas Herdt</director>
+      <actor role="Joséphine">Mimie Mathy</actor>
+      <actor role="Laure">Ingrid Chauvin</actor>
+      <actor role="Julien">Grégoire Paturel</actor>
+      <actor role="Christophe">Fabrice Deville</actor>
+      <actor role="Mathieu">Julien Masdoua</actor>
+      <actor role="Gwenaëlle Bauche">Maëlle Mietton</actor>
+      <actor role="Hugo">Enzo Rose</actor>
+      <actor role="Théo">Aurélien Ferru</actor>
+      <actor role="Lucie">Anabel Moreno</actor>
+      <actor role="Manon">Rosie Boccardi</actor>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23481799eh8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S21 E5</episode-num>
+  </programme>
+  <programme start="20260326084500 +0000" stop="20260326110500 +0000" channel="La 7d">
+    <title lang="it">Le regole della casa del sidro</title>
+    <desc lang="it">Homer è cresciuto in un orfanotrofio sotto la tutela del dottor Larch. Quando incontra una giovane coppia benestante, il ragazzo decide di unirsi a loro, trasfonrmando la propria visione della vita e delle regole di cui è a conoscenza.</desc>
+    <credits>
+      <director>Lasse Hallström</director>
+      <actor role="Homer Wells">Tobey Maguire</actor>
+      <actor role="Candy Kendall">Charlize Theron</actor>
+      <actor role="Mr. Rose">Delroy Lindo</actor>
+      <actor role="Wally Worthington">Paul Rudd</actor>
+      <actor role="Dr. Wilbur Larch">Michael Caine</actor>
+      <actor role="Nurse Edna">Jane Alexander</actor>
+      <actor role="Nurse Angela">Kathy Baker</actor>
+      <actor role="Rose Rose">Erykah Badu</actor>
+      <actor role="Buster">Kieran Culkin</actor>
+      <actor role="Olive Worthington">Kate Nelligan</actor>
+    </credits>
+    <date>1999</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23962bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260326110500 +0000" stop="20260326131000 +0000" channel="La 7d">
+    <title lang="it">Gli anni spezzati</title>
+    <desc lang="it">L'invasione australiana delle coste turche durante la prima guerra mondiale vista dagli occhi di due giovani amici atleti.</desc>
+    <credits>
+      <director>Peter Weir</director>
+      <actor role="Archy Hamilton">Mark Lee</actor>
+      <actor role="Frank Dunne">Mel Gibson</actor>
+      <actor role="Jack">Bill Kerr</actor>
+      <actor role="Wallace Hamilton">Ron Graham</actor>
+      <actor role="Les McCann">Harold Hopkins</actor>
+      <actor role="Zac">Charles Yunupingu</actor>
+      <actor role="Stockman">Heath Harris</actor>
+      <actor role="Rose Hamilton">Gerda Nicolson</actor>
+      <actor role="Billy">Robert Grubb</actor>
+      <actor role="Barney">Tim McKenzie</actor>
+    </credits>
+    <date>1981</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p4054bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">AU</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260326131000 +0000" stop="20260326153000 +0000" channel="La 7d">
+    <title lang="it">Ricordati di me</title>
+    <desc lang="it">Due genitori cercano di ritrovare i sogni abbandonati della loro gioventù, mentre i loro figli cercano di dare un senso alle proprie vite.</desc>
+    <credits>
+      <director>Gabriele Muccino</director>
+      <actor role="Carlo Ristuccia">Fabrizio Bentivoglio</actor>
+      <actor role="Giulia Ristuccia">Laura Morante</actor>
+      <actor role="Valentina Ristuccia">Nicoletta Romanoff</actor>
+      <actor role="Alessia">Monica Bellucci</actor>
+      <actor role="Paolo Ristuccia">Silvio Muccino</actor>
+      <actor role="Alfredo">Gabriele Lavia</actor>
+      <actor role="Stefano Manni">Enrico Silvestrin</actor>
+      <actor role="Elena">Silvia Cohen</actor>
+      <actor role="Riccardo">Alberto Gimignani</actor>
+      <actor role="Louise">Amanda Sandrelli</actor>
+    </credits>
+    <date>2003</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34742bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <country lang="it">FR</country>
+    <country lang="it">GB</country>
+  </programme>
+  <programme start="20260326153000 +0000" stop="20260326175000 +0000" channel="La 7d">
+    <title lang="it">American Beauty</title>
+    <desc lang="it">Lester Burnham è un marito infelice che trascorre le giornate all'insegna della monotonia. Quando incontra Angela, amica adolescente di sua figlia, la sua vita cambia completamente.</desc>
+    <credits>
+      <director>Sam Mendes</director>
+      <actor role="Lester Burnham">Kevin Spacey</actor>
+      <actor role="Carolyn Burnham">Annette Bening</actor>
+      <actor role="Jane Burnham">Thora Birch</actor>
+      <actor role="Ricky Fitts">Wes Bentley</actor>
+      <actor role="Angela Hayes">Mena Suvari</actor>
+      <actor role="Buddy Kane">Peter Gallagher</actor>
+      <actor role="Barbara Fitts">Allison Janney</actor>
+      <actor role="Jim Olmeyer">Scott Bakula</actor>
+      <actor role="Jim Berkley">Sam Robards</actor>
+      <actor role="Colonnello Fitts">Chris Cooper</actor>
+    </credits>
+    <date>1999</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23514bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20260326175000 +0000" stop="20260326201500 +0000" channel="La 7d">
+    <title lang="it">L'arte di vincere</title>
+    <desc lang="it">Billy Beane è il direttore generale degli Oakland Athletics e, nonostante abbia un ridotto budget a disposizione, riesce ad assemblare una squadra di baseball assolutamente competitiva.</desc>
+    <credits>
+      <director>Bennett Miller</director>
+      <actor role="Billy Beane">Brad Pitt</actor>
+      <actor role="Peter Brand">Jonah Hill</actor>
+      <actor role="Art Howe">Philip Seymour Hoffman</actor>
+      <actor role="Sharon">Robin Wright</actor>
+      <actor role="Scott Hatteberg">Chris Pratt</actor>
+      <actor role="David Justice">Stephen Bishop</actor>
+      <actor role="Mark Shapiro">Reed Diamond</actor>
+      <actor role="Ron Washington">Brent Jennings</actor>
+      <actor role="Grady Fusion">Ken Medlock</actor>
+      <actor role="Elizabeth Hatteberg">Tammy Blanchard</actor>
+    </credits>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8417791bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260326201500 +0000" stop="20260326221500 +0000" channel="La 7d">
+    <title lang="it">Colpevole d'innocenza</title>
+    <desc lang="it">La vita di Libby Parsons cambia completamente quando viene ingiustamente accusata dell'omicidio di suo marito. Dopo aver trascorso sei anni in carcere, decide di elaborare un piano di vendetta.</desc>
+    <credits>
+      <director>Bruce Beresford</director>
+      <actor role="Travis Lehman">Tommy Lee Jones</actor>
+      <actor role="Elizabeth Parsons">Ashley Judd</actor>
+      <actor role="Angela Green/Angela Walker">Bruce Greenwood</actor>
+      <actor role="Margaret Skolowski">Roma Maffia</actor>
+      <actor role="Evelyn Lake">Davenia McFadden</actor>
+      <actor role="Matty Parsons a 11 anni">Jay Brazeau</actor>
+    </credits>
+    <date>1999</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23927bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260326221500 +0000" stop="20260327002500 +0000" channel="La 7d">
+    <title lang="it">Il giocatore: Rounders</title>
+    <desc lang="it">Mike è un giovanissimo giocatore di poker che, dopo aver perso una grossa somma, decide di lasciare il tavolo verde. Il ragazzo torna al gioco d'azzardo per salvare un amico.</desc>
+    <credits>
+      <director>John Dahl</director>
+      <actor role="Mike McDermott">Matt Damon</actor>
+      <actor role="Lester 'Worm' Murphy">Ed Norton</actor>
+      <actor role="Joey Knish">John Turturro</actor>
+      <actor role="Jo">Gretchen Mol</actor>
+      <actor role="Petra">Famke Janssen</actor>
+      <actor role="Teddy KGB">John Malkovich</actor>
+      <actor role="Abe Petrovsky">Martin Landau</actor>
+      <actor role="Grama">Michael Rispoli</actor>
+      <actor role="Barbara">Melina Kanakaredes</actor>
+      <actor role="Zagosh">Josh Mostel</actor>
+    </credits>
+    <date>1998</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21593bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260327002500 +0000" stop="20260327022000 +0000" channel="La 7d">
+    <title lang="it">L'amore in gioco</title>
+    <desc lang="it">L'amore tra una ragazza in carriera ed un insegnante viene interrotto troppo spesso dall'ossessione di lui per una squadra di baseball.</desc>
+    <credits>
+      <director>Robert Farrelly</director>
+      <director>Peter Farrelly</director>
+      <actor role="Lindsey Meeks">Drew Barrymore</actor>
+      <actor role="Ben Wrightman">Jimmy Fallon</actor>
+      <actor role="Doug Meeks">James B. Sikking</actor>
+      <actor role="Maureen Meeks">JoBeth Williams</actor>
+      <actor role="Kevin">Willie Garson</actor>
+      <actor role="Troy">Evan Helmuth</actor>
+      <actor role="Molly">Ione Skye</actor>
+      <actor role="Ben (ragazzo)">Jason Spevack</actor>
+      <actor role="Al">Jack Kehler</actor>
+      <actor role="Artie">Scott Severance</actor>
+    </credits>
+    <date>2005</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p35683bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <country lang="it">DE</country>
+  </programme>
+  <programme start="20260327022000 +0000" stop="20260327032000 +0000" channel="La 7d">
+    <title lang="it">Hollywood Collection</title>
+    <sub-title lang="it">Shirley MacLaine</sub-title>
+    <desc lang="it">L'attrice Shirley MacLaine riscuote successo a Broadway e nel cinema, lavorando con attori famosi come Jack Lemmon, Frank Sinatra e Robert Mitchum.</desc>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12157943eh10aa_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260327032000 +0000" stop="20260327035500 +0000" channel="La 7d">
+    <title lang="it">Uozzap</title>
+    <desc lang="it">Il meglio della programmazione con spezzoni di vecchi programmi e filmati di repertorio trasmessi da LA7, dalla sua nascita ad oggi.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15684799bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260327035500 +0000" stop="20260327050000 +0000" channel="La 7d">
+    <title lang="it">La7 Doc</title>
+    <desc lang="it">Selezione di documentari proposti dalla rete e dedicati a temi culturali, sociali, storici, artistici e naturalistici. Il meglio della produzione nazionale e internazionale in ambito divulgativo.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168688ih10ac_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260327050000 +0000" stop="20260327050500 +0000" channel="La 7d">
+    <title lang="it">Oroscopo</title>
+    <desc lang="it">Scopriamo assieme quali sorprese sono in serbo nel prossimo futuro per ciascuno dei segni dello zodiaco. L'appuntamento quotidiano con l'oroscopo de La7 è pronto a rivelare ogni sfumatura dell'influenza delle stelle.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12160647ih10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260327050500 +0000" stop="20260327051000 +0000" channel="La 7d">
+    <title lang="it">TG La7</title>
+    <desc lang="it">Edizione del notiziario televisivo a cura della redazione giornalistica di La7. Dal 24 Giugno 2001, gli aggiornamenti sui fatti più rilevanti a livello nazionale ed internazionale.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10691348ih8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260327051000 +0000" stop="20260327054500 +0000" channel="La 7d">
+    <title lang="it">Brigitte Bardot: The Icon of France</title>
+    <desc lang="it">La carriera professionale e la vita personale di un'attrice dal talento poliedrico ma con grandi fragilità. Scopriamo la bambina che da grande voleva fare la ballerina ma è diventata un'icona provocante.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8034352ih12aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+  </programme>
+  <programme start="20260327054500 +0000" stop="20260327073000 +0000" channel="La 7d">
+    <title lang="it">Josephine angelo custode</title>
+    <sub-title lang="it">Fino in fondo</sub-title>
+    <desc lang="it">Nell'assolata Occitania, Joséphine si ritrova a casa di una famiglia di sportivi di alto livello. La sua cliente, Laure, è la madre di Julien, 17 anni, che sogna solo di andare a vivere da solo, lontano da lei.</desc>
+    <credits>
+      <director>Nicolas Herdt</director>
+      <actor role="Joséphine">Mimie Mathy</actor>
+      <actor role="Laure">Ingrid Chauvin</actor>
+      <actor role="Julien">Grégoire Paturel</actor>
+      <actor role="Christophe">Fabrice Deville</actor>
+      <actor role="Mathieu">Julien Masdoua</actor>
+      <actor role="Gwenaëlle Bauche">Maëlle Mietton</actor>
+      <actor role="Hugo">Enzo Rose</actor>
+      <actor role="Théo">Aurélien Ferru</actor>
+      <actor role="Lucie">Anabel Moreno</actor>
+      <actor role="Manon">Rosie Boccardi</actor>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23592485eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S21 E5</episode-num>
+  </programme>
+  <programme start="20260327073000 +0000" stop="20260327091500 +0000" channel="La 7d">
+    <title lang="it">Josephine angelo custode</title>
+    <sub-title lang="it">Un coro per la salvezza</sub-title>
+    <desc lang="it">In un caotico centro ricreativo, Joséphine, la nuova responsabile dei ragazzi, si trova al centro di una guerra per il territorio tra Antoine, il suo rigido capo, e Guillaume, l'ex avventuriero e padre della ribelle Mila.</desc>
+    <credits>
+      <director>Jean-Marc Seban</director>
+      <director>Philippe Monnier</director>
+      <director>Pascal Heylbroeck</director>
+      <actor role="Joséphine">Mimie Mathy</actor>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p27541683ih10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S22 E1</episode-num>
+  </programme>
+  <programme start="20260327091500 +0000" stop="20260327111000 +0000" channel="La 7d">
+    <title lang="it">Hysteria</title>
+    <desc lang="it">Nella pudica Londra vittoriana, il brillante giovane dottore Mortimer Granville è in cerca di un nuovo lavoro. Lo trova presso il Dottor Dalrymple, specializzato nel trattamento dei casi di isteria.</desc>
+    <credits>
+      <director>Tanya Wexler</director>
+      <actor role="Dott. Mortimer Granville">Hugh Dancy</actor>
+      <actor role="Charlotte Dalrymple">Maggie Gyllenhaal</actor>
+      <actor role="Dott. Dalrymple">Jonathan Pryce</actor>
+      <actor role="Emily">Felicity Jones</actor>
+      <actor role="Edmund">Rupert Everett</actor>
+      <actor role="Molly">Sheridan Smith</actor>
+      <actor role="SIgnora Castellari">Kim Criswell</actor>
+      <actor role="Signora Pearce">Elisabet Johannesdottir</actor>
+    </credits>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8871964bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260327111000 +0000" stop="20260327134000 +0000" channel="La 7d">
+    <title lang="it">In Her Shoes: Se fossi lei</title>
+    <desc lang="it">La storia di due sorelle che non hanno nulla in comune se non la medesima taglia di scarpe. In fatto di valori, obiettivi e stile di vita, sono grandi amiche ma agli antipodi.</desc>
+    <credits>
+      <director>Curtis Hanson</director>
+      <actor role="Maggie Feller">Cameron Diaz</actor>
+      <actor role="Rose Feller">Toni Collette</actor>
+      <actor role="Ella Hirsh">Shirley MacLaine</actor>
+      <actor role="Simon Stein">Mark Feuerstein</actor>
+      <actor role="Michael Feller">Ken Howard</actor>
+      <actor role="Sydelle Feller">Candice Azzara</actor>
+      <actor role="Signora Lefkowitz">Francine Beers</actor>
+      <actor role="Signor Sofield">Norman Lloyd</actor>
+      <actor role="Lewis Feldman">Jerry Adler</actor>
+      <actor role="Amy">Brooke Smith</actor>
+    </credits>
+    <date>2005</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p36346bdh10ag_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260327134000 +0000" stop="20260327154000 +0000" channel="La 7d">
+    <title lang="it">Broken City</title>
+    <desc lang="it">In una città piena di ingiustizie, l'ex poliziotto Billy Taggart è in missione per vendetta e redenzione dopo essere stato tradito dal personaggio di punta della città, il sindaco Nicholas Hostetler.</desc>
+    <credits>
+      <director>Allen Hughes</director>
+      <actor role="Billy Taggart">Mark Wahlberg</actor>
+      <actor role="Sindaco Hostetler">Russell Crowe</actor>
+      <actor role="Cathleen Hostetler">Catherine Zeta-Jones</actor>
+      <actor role="Fairbanks">Jeffrey Wright</actor>
+      <actor role="Jack Valliant">Barry Pepper</actor>
+      <actor role="Paul Andrews">Kyle Chandler</actor>
+      <actor role="Natalie Barrow">Natalie Martinez</actor>
+      <actor role="Katy Bradshaw">Alona Tal</actor>
+      <actor role="Todd Lancaster">James Ransone</actor>
+      <actor role="Tony Jansen">Michael Beach</actor>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9337419bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260327154000 +0000" stop="20260327180000 +0000" channel="La 7d">
+    <title lang="it">Elizabethtown</title>
+    <desc lang="it">Claire, un'assistente di volo piena di vita, aiuta Drew, un giovane designer, a superare il difficile periodo che egli sta vivendo in seguito alla morte del padre e a un grave fallimento professionale.</desc>
+    <credits>
+      <director>Cameron Crowe</director>
+      <actor role="Drew Baylor">Orlando Bloom</actor>
+      <actor role="Claire Colburn">Kirsten Dunst</actor>
+      <actor role="Hollie Baylor">Susan Sarandon</actor>
+      <actor role="Heather Baylor">Judy Greer</actor>
+      <actor role="Ellen">Jessica Biel</actor>
+      <actor role="Phil">Alec Baldwin</actor>
+      <actor role="Jessie Baylor">Paul Schneider</actor>
+      <actor role="Zia Dora">Paula Deen</actor>
+      <actor role="Zio Dale">Loudon Wainwright</actor>
+      <actor role="Bill Banyon">Bruce McGill</actor>
+    </credits>
+    <date>2005</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p89601bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327201500 +0000" channel="La 7d">
+    <title lang="it">Il cliente</title>
+    <desc lang="it">Il piccolo Mark insieme al fratello Ricky ha assistito al suicidio di un uomo e ha purtroppo avuto modo d'essere testimone delle sue ultime rivelazioni. Ora la mafia vorrebbe farlo tacere.</desc>
+    <credits>
+      <director>Joel Schumacher</director>
+      <actor role="Dianne Sway">Susan Sarandon</actor>
+      <actor role="Barry 'la lama' Muldano">Anthony LaPaglia</actor>
+      <actor role="Clint Von Hooser">Anthony Edwards</actor>
+      <actor role="Giudice Harry Roosevelt">Ossie Davis</actor>
+      <actor role="Mark Sway">Brad Renfro</actor>
+      <actor role="Ricky Sway">David Speck</actor>
+      <actor role="Jason McThune">J.T. Walsh</actor>
+      <actor role="Sergente Hardy">Will Patton</actor>
+      <actor role="Thomas Fink">Bradley Whitford</actor>
+      <actor role="Larry Trumann">Anthony Heald</actor>
+    </credits>
+    <date>1994</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15768ih11ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260327201500 +0000" stop="20260328000500 +0000" channel="La 7d">
+    <title lang="it">JFK: Un caso ancora aperto</title>
+    <desc lang="it">La coraggiosa inchiesta del procuratore distrettuale di New Orleans Jim Garrison sull'assassinio del presidente John Fitzgerald Kennedy.</desc>
+    <credits>
+      <director>Oliver Stone</director>
+      <actor role="Jim Garrison">Kevin Costner</actor>
+      <actor role="Liz Garrison">Sissy Spacek</actor>
+      <actor role="David Ferrie">Joe Pesci</actor>
+      <actor role="Clay Shaw/Clay Bertrand">Tommy Lee Jones</actor>
+      <actor role="Lee Harvey Oswald">Gary Oldman</actor>
+      <actor role="Lou Ivon">Jay O. Sanders</actor>
+      <actor role="Bill Broussard">Michael Rooker</actor>
+      <actor role="Susie Cox">Laurie Metcalf</actor>
+      <actor role="Al Oser">Gary Grubbs</actor>
+      <actor role="Dean Andrews">John Candy</actor>
+    </credits>
+    <date>1991</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13623bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260328000500 +0000" stop="20260328021500 +0000" channel="La 7d">
+    <title lang="it">Come l'acqua per gli elefanti</title>
+    <desc lang="it">Negli anni Trenta, Jacob, laureando in veterinaria, rimane improvvisamente orfano e senza una casa. Decide allora di salire sul primo treno alla ricerca di un nuovo inizio.</desc>
+    <credits>
+      <director>Francis Lawrence</director>
+      <actor role="Marlena">Reese Witherspoon</actor>
+      <actor role="Jacob">Robert Pattinson</actor>
+      <actor role="August">Christoph Waltz</actor>
+      <actor role="Charlie">Paul Schneider</actor>
+      <actor role="Camel">Jim Norton</actor>
+      <actor role="Old Jacob">Hal Holbrook</actor>
+      <actor role="Kinko/Walter">Mark Povinelli</actor>
+      <actor role="Grady">Richard Brake</actor>
+      <actor role="Wade">Stephen Monroe Taylor</actor>
+      <actor role="Earl">Ken Foree</actor>
+    </credits>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8395557bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260328021500 +0000" stop="20260328025000 +0000" channel="La 7d">
+    <title lang="it">Uozzap</title>
+    <desc lang="it">Il meglio della programmazione con spezzoni di vecchi programmi e filmati di repertorio trasmessi da LA7, dalla sua nascita ad oggi.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15684799bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260328025000 +0000" stop="20260328040000 +0000" channel="La 7d">
+    <title lang="it">Hollywood Collection</title>
+    <sub-title lang="it">Clint Eastwood</sub-title>
+    <desc lang="it">Clint Eastwood raggiunge la fama internazionale come attore, produttore e regista in film quali "Brivido nella notte", "Lo straniero senza nome", "Il texano dagli occhi di ghiaccio" e "Gli spietati".</desc>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12023795eh11ad_Iconic_W660.webp" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260328040000 +0000" stop="20260328050000 +0000" channel="La 7d">
+    <title lang="it">La7 Doc</title>
+    <desc lang="it">Selezione di documentari proposti dalla rete e dedicati a temi culturali, sociali, storici, artistici e naturalistici. Il meglio della produzione nazionale e internazionale in ambito divulgativo.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168688ih10ac_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
   <programme start="20260326033000 +0000" stop="20260326040000 +0000" channel="Rai News 24">
     <title lang="it">Rassegna stampa</title>
     <desc lang="it">Una panoramica sulla rassegna stampa italiana e internazionale, a cura della redazione della rete, in cui vengono analizzati e approfonditi i principali titoli quotidiani.</desc>
